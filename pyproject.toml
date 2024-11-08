@@ -11,6 +11,8 @@ build-backend = "setuptools.build_meta"
 
 # Setuptools configuration see https://setuptools.pypa.io/en/latest/userguide/package_discovery.html#src-layout
 # By default setuptools will look for `src` directory and auto discover packages
+[tool.setuptools.find_packages]
+where = ["src", "tutor-soln"]
 
 # Setuptools configuration for the data files see https://setuptools.pypa.io/en/stable/userguide/datafiles.html
 
