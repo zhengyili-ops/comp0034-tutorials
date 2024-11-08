@@ -11,8 +11,13 @@ build-backend = "setuptools.build_meta"
 
 # Setuptools configuration see https://setuptools.pypa.io/en/latest/userguide/package_discovery.html#src-layout
 # By default setuptools will look for `src` directory and auto discover packages
-[tool.setuptools.find_packages]
+# This project has two directory trees which makes it more complex
+[tool.setuptools.packages.find]
 where = ["src", "tutor-soln"]
+
+[tool.setuptools.package-dir]
+"" = "src"
+"tutor" = "src-tutor"
 
 # Setuptools configuration for the data files see https://setuptools.pypa.io/en/stable/userguide/datafiles.html
 
@@ -21,4 +26,4 @@ where = ["src", "tutor-soln"]
 [tool.pytest.ini_options]
 minversion = "6.0"
 addopts = "-rA -v"
-testpaths = ["tests",]
+testpaths = ["tests"]
