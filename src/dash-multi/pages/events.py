@@ -1,11 +1,12 @@
 # Page with the map and stats card
+import dash
 import dash_bootstrap_components as dbc
-from dash import dash, dcc, html
+from dash import html
 
-# register the page in the app
+# register the page in the app, this is the default page
 dash.register_page(__name__, name='Events', title='Events', path="/", )
 
-# The rows are in a separate Python module called layout_events.py
+# layout defined as a variable named 'layout'. This is the variable name that is specified in the Dash documentation.
 layout = dbc.Container([
     dbc.Row([
         dbc.Col([
@@ -16,12 +17,21 @@ layout = dbc.Container([
     ]),
     dbc.Row([
         dbc.Col(children=[
-            # Chart replaced the placeholder image
-            dcc.Graph(figure=map, id="geo-map"),
+            html.Img(src=dash.get_asset_url("map-placeholder.png"), id="map", className="img-fluid"),
         ], width=8),
         dbc.Col(children=[
-            card,
-        ], width=4),
+            dbc.Card([
+                dbc.CardImg(src=dash.get_asset_url("logos/2022_Beijing.png"), top=True),
+                dbc.CardBody([
+                    html.H4("Beijing 2022", className="card-title"),
+                    html.P("Highlights of the paralympic event will go here. This will be a sentence or two.",
+                           className="card-text", ),
+                    html.P("Number of athletes: XX", className="card-text", ),
+                    html.P("Number of events: XX", className="card-text", ),
+                    html.P("Number of countries: XX", className="card-text", ),
+                ]),
+            ],
+                style={"width": "18rem"},
+            )], width=4),
     ], align="start")
-
 ])

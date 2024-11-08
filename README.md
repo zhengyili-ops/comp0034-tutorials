@@ -13,35 +13,27 @@ This repository contains the practicals for the COMP0035 module for the academic
 
 The `activities` folder contains the activity instructions for each week.
 
-The `src` package contains:
+The `src` directory contains packages:
 
-- `dash-student`: student work weeks 1-5
-- `dash-tutor`: tutor solution (updated weekly one week after the tutorial)
-- `flask-student`: student work weeks 6-10
-- `flask-tutor`: tutor solution (updated weekly one week after the tutorial)
+- `dash-single`: use this for the Dash single page app activities in weeks 1-5
+- `dash-multi`: use this for the optional Dash multi-page app activities in weeks 1-5
+- `flask-paralympics`: use this for the Flask activities in weeks 6-10
+- `code-samples`: snippets of code to illustrate concepts
+
+The `tutor-soln` directory contains completed examples based on the activites and is typically updated 1 week after the
+tutorial.
 
 ## List of activity instructions
 
-This will be updated each week with the activities for that week.
+Please refer to the weekly folders.
 
-### Week 1 Basic Dash app with HTML layout and Bootstrap CSS
-
-### Week 2 Adding charts to a Dash app with Plotly Express and Plotly Go
-
-### Week 3 Adding interactivity to a Dash app using callbacks
-
-### Week 4 Testing dash using Pytest with Selenium Webdriver
-
-### Week 5 Miscellaneous Dash activities
-TBC
-
-### Week 6 Create and configure a Flask app
-
-### Week 7 Model classes and database interaction with Flask-SQLAlchemy
-
-### Week 8 Jinja templates and Bootstrap styling
-
-### Week 9 Testing Flask routes
-
-### Week 10 Miscellaneous Flask activities
-TBC
+- Week 1 Basic Dash app with HTML layout and Bootstrap CSS
+- Week 2 Adding charts to a Dash app with Plotly Express and Plotly Go
+- Week 3 Adding interactivity to a Dash app using callbacks
+- Week 4 Testing dash using Pytest with Selenium Webdriver
+- Week 5 Miscellaneous Dash activities (TBC)
+- Week 6 Create and configure a Flask app
+- Week 7 Model classes and database interaction with Flask-SQLAlchemy
+- Week 8 Jinja templates and Bootstrap styling
+- Week 9 Testing Flask routes
+- Week 10 Miscellaneous Flask activities (TBC)
