@@ -39,7 +39,7 @@ There are three basic steps for creating a multi-page app with Dash Pages:
     - Add `dash.page_container` in your app layout where you want the page content to be displayed when a user visits
       one of the app's page paths.
 
-The [dash-multipage](../../src/dash-multi) folder already contains a `/pages` directory with two pages:
+The [dash-multipage](../../src/dash_multi) folder already contains a `/pages` directory with two pages:
 
 - `charts.py` contains the line and bar charts and their selectors. This has a **variable** called layout.
 - `events.py` contains the map and event details card. This has a **function** called layout.
