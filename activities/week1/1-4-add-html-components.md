@@ -116,11 +116,10 @@ dbc.Card([
     dbc.CardImg(src=app.get_asset_url("logos/2022_Beijing.png"), top=True),
     dbc.CardBody([
         html.H4("Beijing 2022", className="card-title"),
-        html.P("Highlights of the paralympic event will go here. This will be a sentence or two.",
-               className="card-text", ),
         html.P("Number of athletes: XX", className="card-text", ),
         html.P("Number of events: XX", className="card-text", ),
         html.P("Number of countries: XX", className="card-text", ),
+        html.P("Number of sports: XX", className="card-text", ),
     ]),
 ],
     style={"width": "18rem"},

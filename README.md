@@ -1,6 +1,6 @@
 # COMP0034 2025 Computer practicals
 
-This repository contains the practicals for the COMP0035 module for the academic year 2024-25.
+This repository contains the practicals for the COMP0034 module for the academic year 2024-25.
 
 ## Instructions for using this repository
 
@@ -13,15 +13,24 @@ This repository contains the practicals for the COMP0035 module for the academic
 
 The `activities` folder contains the activity instructions for each week.
 
-The `src` directory contains packages:
+The code sub-packages packages with the `src` directory tree is not typical and is used so that students only need to
+have one repository for all the tutorials. You would not usually have several different applications within a package.
+
+The `src` directory contains three packages:
+
+1. `code-samples`: snippets of code to illustrate concepts
+2. `student`: use this package to make your changes when you complete the activities
+3. `tutor`: this package is maintained by the course tutor and will be updated each week
+
+Within these packages there are separate subpackages for each of the applications. `data` is duplicated in `student` and
+`tutor`, allowing you to make changes to the student version if needed.
+
+The sub-packages are:
 
 - `dash-single`: use this for the Dash single page app activities in weeks 1-5
 - `dash-multi`: use this for the optional Dash multi-page app activities in weeks 1-5
+- `data`: the database and data files that you will need for the apps
 - `flask-paralympics`: use this for the Flask activities in weeks 6-10
-- `code-samples`: snippets of code to illustrate concepts
-
-The `tutor-soln` directory contains completed examples based on the activites and is typically updated 1 week after the
-tutorial.
 
 ## List of activity instructions
 

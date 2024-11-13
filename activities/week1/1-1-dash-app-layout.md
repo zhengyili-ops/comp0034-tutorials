@@ -166,7 +166,7 @@ Add some HTML elements to the page:
 The documentation explaining each HTML tag (component) is in
 the [Dash html components reference](https://dash.plotly.com/dash-html-components).
 
-Images are in the [assets](../../src/dash_single/assets) folder. To reference these in the `src=` parameter use the
+Images are in the [assets](../../src/student/dash_single/assets) folder. To reference these in the `src=` parameter use the
 `app.get_asset_url()` function. In the brackets specify the file name and any subdirectory below the 'assets' directory,
 e.g. `html.Img(src=app.get_asset_url('bar-chart-placeholder.png'))`
 

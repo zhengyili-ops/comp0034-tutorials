@@ -44,11 +44,11 @@ def layout(**kwargs):
         dbc.Row([
             dbc.Col(children=[
                 # Placeholder image to represent the chart
-                html.Img(src=dash.get_asset_url("bar-chart-placeholder.png"), id="bar-chart", className="img-fluid"),
+                html.Img(src=dash.get_asset_url("line-chart-placeholder.png"), id="line-chart", className="img-fluid"),
             ], width=6),
             dbc.Col(children=[
                 # Placeholder image to represent the chart
-                html.Img(src=dash.get_asset_url("line-chart-placeholder.png"), id="line-chart", className="img-fluid"),
+                html.Img(src=dash.get_asset_url("bar-chart-placeholder.png"), id="bar-chart", className="img-fluid"),
             ], width=6),
         ],
             align="start")
