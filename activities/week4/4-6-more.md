@@ -21,12 +21,17 @@ to see how they structure their own tests.
 and dash_br fixtures rather than dash_duo, however it gives a number of examples of different ways to select elements on
 the page for testing.
 
-## Python playwright - alternative to using Selenium
-If you do not wish to use Selenium Webdriver, an accepted alternative for the coursework is [Python playwright](https://playwright.dev/python/docs/intro).
+## Python playwright - an alternative to using Selenium Webdriver
 
-Playright locators are different to Selenium so you will need to read their documentation and find tutorials.
+If you do not wish to use Selenium Webdriver, an accepted alternative for the coursework
+is [Python playwright](https://playwright.dev/python/docs/intro).
 
-A minimal example fo the paralympics Dash app:
+Some students last year preferred this as it seemed to avoid issues with browser driver versions and waits.
+
+Playwright locators are different to Selenium so you will need to read their documentation and find tutorials. 
+Try [Pytest with Eric's Playwright tutorial](https://pytest-with-eric.com/automation/pytest-playwright/).
+
+A minimal example for the paralympics Dash app:
 
 ```python
 """ Minimal example of a test using Python playwright instead of Selenium webdriver
@@ -42,7 +47,7 @@ from playwright.sync_api import expect, sync_playwright
 
 @pytest.fixture(autouse=True)
 def start_app(dash_duo):
-    """ Pytest fixture to start the app in a threaded server.
+    """ Pytest fixture to start the Dash app in a threaded server.
     This is a function-scoped fixture.
     Automatically used by all tests in this module.
     """
@@ -80,6 +85,3 @@ def test_h1_text_equals(app_url):
         browser.close()
 
 ```
-
-
-
