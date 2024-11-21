@@ -145,4 +145,4 @@ app.layout = dbc.Container([
 
 Update your paralympics app to support styling using Dash Bootstrap Components.
 
-[Next activity](1-2-add-bootstrap.md)
+[Next activity](1-3-add-bootstrap)

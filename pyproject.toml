@@ -21,3 +21,4 @@ minversion = "6.0"
 addopts = "-rA -v"
 testpaths = ["tests"]
 pythonpath = ["src", "tutor_soln"]
+filterwarnings = ["ignore::DeprecationWarning"]

@@ -61,11 +61,13 @@ def create_card(host_year):
     Returns:
         card: dash boostrap components card for the event
     """
-    # Split the string into a list of values to get the year and host as separate values. str.split(' ') splits based on the space.
-    ... your code here ...
-    # Create two variables from the split values, e.g. one called 'year' and another called 'host'
-    year = ... your code here ...
-    host = ... your code here ...
+    # Slice the string to get the year and host as separate values.
+    # See https://www.w3schools.com/python/python_strings_slicing.asp
+    # The last 4 digits are the year
+    year = host_year[]# add code in the brackets to get a slice of the string
+    # Drop the last 5 digits (a space followed by the year) to the host city 
+    host = host_year[]# add code in the brackets to get a slice of the string
+    
     # Read the data into a DataFrame from the SQLite database
     with resources.path("data", "paralympics.db") as path:
         conn = sqlite3.connect(path)
@@ -95,16 +97,14 @@ def create_card(host_year):
                 style={"width": "18rem"},
             )
             return card
-
-
 ```
 
 ## Create the card and add it to the layout
 
 Create an instance of the card e.g. `card = create_card("Barcelona 1992")`
 
-Add the card into the layout e.g. `dbc.Col(children=[card], width=4),`
+Add the card into the layout e.g. `dbc.Col(children=[card], id='card', width=4),`
 
 Check in the running app that the card is displayed.
 
-[Next activity](2-5-challenge.md)
+[Next activity](2-6-challenge)

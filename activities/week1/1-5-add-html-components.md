@@ -129,4 +129,4 @@ dbc.Card([
 Run the app and check it displays as you expected. The design could be improved so feel free to make any changes you
 wish!
 
-[Next activity](1-5-multipage-app.md)
+[Next activity](1-6-multipage-app)

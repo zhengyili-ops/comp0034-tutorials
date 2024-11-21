@@ -28,11 +28,11 @@ The Dash application is based on the paralympics data used in COMP0035 tutorials
 
 The activities included are:
 
-1. [Create a basic Dash app and add a layout with HTML elements](1-1-dash-app-layout.md)
-2. [Enable Dash Bootstrap Components CSS styling for the Dash app](1-2-add-bootstrap.md)
-3. [Add the 12 column layout to the Dash app](1-3-12columnlayout.md)
-4. [Add HTML components into the layout](1-4-add-html-components.md)
-5. [(optional) Create a multi-page version of the app](1-5-multipage-app.md)
+1. [Create a basic Dash app and add a layout with HTML elements](1-2-dash-app-layout)
+2. [Enable Dash Bootstrap Components CSS styling for the Dash app](1-3-add-bootstrap)
+3. [Add the 12 column layout to the Dash app](1-4-12columnlayout)
+4. [Add HTML components into the layout](1-5-add-html-components)
+5. [(optional) Create a multi-page version of the app](1-6-multipage-app)
 
 The activities build towards a single page Dashboard design with the following layout. The layout is based on a 12
 column grid:
@@ -98,4 +98,4 @@ all give either examples or guidance on design.
 - [Halo lab: Modern dashboard design - best practices and examples](https://www.halo-lab.com/blog/dashboard-design-examples)
 
 
-[Next activity](1-1-dash-app-layout.md)
+[Next activity](1-2-dash-app-layout)

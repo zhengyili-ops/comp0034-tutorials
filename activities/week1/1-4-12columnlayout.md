@@ -136,4 +136,4 @@ app.layout = dbc.Container([
 ])
 ```
 
-[Next activity](1-4-add-html-components.md)
+[Next activity](1-5-add-html-components)

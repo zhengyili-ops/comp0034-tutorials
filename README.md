@@ -32,9 +32,9 @@ The sub-packages are:
 - `data`: the database and data files that you will need for the apps
 - `flask-paralympics`: use this for the Flask activities in weeks 6-10
 
-## List of activity instructions
+## Weekly activities
 
-Please refer to the weekly folders.
+Please refer to the weekly folders in `activities`.
 
 - Week 1 Basic Dash app with HTML layout and Bootstrap CSS
 - Week 2 Adding charts to a Dash app with Plotly Express and Plotly Go

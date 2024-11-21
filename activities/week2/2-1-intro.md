@@ -51,10 +51,10 @@ this, pick one method to use.
 
 | Activity                      | Chart type                                       | Data access method       | Chart library  |
 |:------------------------------|:-------------------------------------------------|:-------------------------|:---------------|
-| [Activity 1](2-1-line-chart)  | Line chart                                       | pandas / .csv            | Plotly Express |
-| [Activity 2](2-2-bar-chart)   | Bar chart                                        | pandas / .csv            | Plotly Express |
-| [Activity 3](2-3-scatter-map) | Scatter geo map with markers                     | pandas / SQLite database | Plotly Express |
-| [Activity 4](2-4-stats-card)  | Summary statistics presented in a Bootstrap card | pandas / SQLite database | None           |
+| [Activity 1](2-2-line-chart)  | Line chart                                       | pandas / .csv            | Plotly Express |
+| [Activity 2](2-3-bar-chart)   | Bar chart                                        | pandas / .csv            | Plotly Express |
+| [Activity 3](2-4-scatter-map) | Scatter geo map with markers                     | pandas / SQLite database | Plotly Express |
+| [Activity 4](2-5-stats-card)  | Summary statistics presented in a Bootstrap card | pandas / SQLite database | None           |
 
 ## Check the paralympics app runs
 
@@ -67,4 +67,4 @@ Check that the app as at the end of week 1 runs:
 If the app did not run, you may need to get the latest version from the tutorials' repository. Go to GitHub; update your
 fork; then in your IDE pull the changes from GitHub to your local repository.
 
-[Next activity](2-1-line-chart.md)
+[Next activity](2-2-line-chart)

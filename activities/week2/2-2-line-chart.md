@@ -118,4 +118,4 @@ Amend the code that creates the line chart to:
 
 Check the app is running, it should now display the line chart with the revised styling.
 
-[Next activity](2-2-bar-chart.md)
+[Next activity](2-3-bar-chart)
