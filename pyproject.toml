@@ -20,5 +20,5 @@ build-backend = "setuptools.build_meta"
 minversion = "6.0"
 addopts = "-rA -v"
 testpaths = ["tests"]
-pythonpath = ["src", "tutor_soln"]
+pythonpath = ["src"]
 filterwarnings = ["ignore::DeprecationWarning"]

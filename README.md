@@ -28,7 +28,7 @@ Within these packages there are separate subpackages for each of the application
 The sub-packages are:
 
 - `dash-single`: use this for the Dash single page app activities in weeks 1-5
-- `dash-multi`: use this for the optional Dash multi-page app activities in weeks 1-5
+- `dash-multi`: use this for the optional Dash multi-page app activity in week 1
 - `data`: the database and data files that you will need for the apps
 - `flask-paralympics`: use this for the Flask activities in weeks 6-10
 
@@ -40,9 +40,11 @@ Please refer to the weekly folders in `activities`.
 - Week 2 Adding charts to a Dash app with Plotly Express and Plotly Go
 - Week 3 Adding interactivity to a Dash app using callbacks
 - Week 4 Testing dash using Pytest with Selenium Webdriver
-- Week 5 Miscellaneous Dash activities (TBC)
+- Week 5 No mandatory content. This will be used for any additional activities or examples that might arise during weeks
+  1 to 4.
 - Week 6 Create and configure a Flask app
 - Week 7 Model classes and database interaction with Flask-SQLAlchemy
 - Week 8 Jinja templates and Bootstrap styling
 - Week 9 Testing Flask routes
-- Week 10 Miscellaneous Flask activities (TBC)
+- Week 10 No mandatory content. This will be used for any additional activities or examples that might arise during
+  weeks 6 to 9.
