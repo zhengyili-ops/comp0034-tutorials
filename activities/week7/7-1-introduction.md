@@ -32,6 +32,8 @@ will use the older style syntax, some of which is no longer supported or is depr
 still use in the current release, but it is scheduled to be removed in a future release at which point your code would
 no longer work.
 
+
+
 ## Using Flask-SQLAlchemy and SQLAlchemy in a Flask app
 
 Make sure you installed FlaskSQLAlchemy, e.g. `pip install flask_sqlalchemy`. When you install it, it will install the
