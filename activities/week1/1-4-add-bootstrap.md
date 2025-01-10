@@ -1,4 +1,4 @@
-# 2. Add Bootstrap CSS styles using Dash Bootstrap Components
+# 4. Add Bootstrap CSS styles using Dash Bootstrap Components
 
 You should have installed Dash Bootstrap Components in the set-up activities for the tutorial.
 
@@ -145,4 +145,4 @@ app.layout = dbc.Container([
 
 Update your paralympics app to support styling using Dash Bootstrap Components.
 
-[Next activity](1-3-add-bootstrap)
+[Next activity](1-4-add-bootstrap)

@@ -1,24 +1,4 @@
-# 1. Setup and introduction to dashboard design
-
-## Set up the tutorial project in your IDE
-
-1. Sign in to GitHub. Fork the [tutorials repository](https://github.com/nicholsons/comp0034-2025-tutorials). This
-   creates your own repository that has a logical link to the original so that you can later get updates. Updates are
-   released weekly.
-
-   **Find the repository and select the Fork button:**
-
-    <img alt="Select Fork button" src="../img/gh-fork-button.png" style="width: 75%;">
-
-   **Create the fork:**
-
-   <img alt="Create the Fork" src="../img/gh-fork-create.png" style="width: 50%;">
-2. Clone the repository you just created in your personal GitHub account to your IDE (VS Code, PyCharm)
-3. Create and activate a virtual environment
-4. Install the required packages that are listed in requirements.txt e.g. `pip install -r requirements.txt`. For this
-   tutorial you only need Dash, Dash Bootstrap Components and pandas so you if you prefer you can just install these:
-   `pip install dash pandas dash-bootstrap-components`
-5. Try `pip install -e .` to set up the code in the project. This should help when importing your own modules.
+# 2. Introduction to Dash layout and styling
 
 ## Introduction to the tutorial
 
@@ -28,11 +8,11 @@ The Dash application is based on the paralympics data used in COMP0035 tutorials
 
 The activities included are:
 
-1. [Create a basic Dash app and add a layout with HTML elements](1-2-dash-app-layout)
-2. [Enable Dash Bootstrap Components CSS styling for the Dash app](1-3-add-bootstrap)
-3. [Add the 12 column layout to the Dash app](1-4-12columnlayout)
-4. [Add HTML components into the layout](1-5-add-html-components)
-5. [(optional) Create a multi-page version of the app](1-6-multipage-app)
+1. [Create a basic Dash app and add a layout with HTML elements](1-3-dash-app-layout)
+2. [Enable Dash Bootstrap Components CSS styling for the Dash app](1-4-add-bootstrap)
+3. [Add the 12 column layout to the Dash app](1-5-12columnlayout)
+4. [Add HTML components into the layout](1-6-add-html-components)
+5. [(optional) Create a multi-page version of the app](1-7-multipage-app)
 
 The activities build towards a single page Dashboard design with the following layout. The layout is based on a 12
 column grid:
@@ -97,5 +77,4 @@ all give either examples or guidance on design.
 - [Toptal: Top Data Vis examples and Dashboard designs](https://www.toptal.com/designers/dashboard-design/top-data-visualization-dashboard-examples)
 - [Halo lab: Modern dashboard design - best practices and examples](https://www.halo-lab.com/blog/dashboard-design-examples)
 
-
-[Next activity](1-2-dash-app-layout)
+[Next activity](1-3-dash-app-layout)

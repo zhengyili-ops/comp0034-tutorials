@@ -1,4 +1,4 @@
-# 2. Create a Dash app and add HTML to the layout
+# 3. Create a Dash app and add HTML to the layout
 
 ## Code to create a basic Dash app
 
@@ -174,4 +174,4 @@ Add any other elements you want to try.
 
 Run the app again if you previously stopped it.
 
-[Next activity](1-3-add-bootstrap)
+[Next activity](1-4-add-bootstrap)

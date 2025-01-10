@@ -1,4 +1,4 @@
-# 3. Create a responsive layout using a 12-column grid layout with Bootstrap
+# 5. Create a responsive layout using a 12-column grid layout with Bootstrap
 
 ## Responsive design with CSS
 
@@ -136,4 +136,4 @@ app.layout = dbc.Container([
 ])
 ```
 
-[Next activity](1-5-add-html-components)
+[Next activity](1-6-add-html-components)

@@ -1,4 +1,4 @@
-# 4. Adding HTML components to the layout
+# 6. Adding HTML components to the layout
 
 In this activity you will add the HTML components to the layout. Chart components will be added next week.
 
@@ -129,4 +129,4 @@ dbc.Card([
 Run the app and check it displays as you expected. The design could be improved so feel free to make any changes you
 wish!
 
-[Next activity](1-6-multipage-app)
+[Next activity](1-7-multipage-app)
