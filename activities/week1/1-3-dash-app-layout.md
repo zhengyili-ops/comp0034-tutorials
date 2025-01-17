@@ -179,4 +179,4 @@ Add any other elements you want to try.
 
 Run the app again if you previously stopped it.
 
-[Next activity](1-4-add-bootstrap)
+[Next activity](1-4-add-bootstrap.md)

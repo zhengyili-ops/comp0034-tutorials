@@ -91,7 +91,7 @@ For example to define responsive images using the image files in the `/assets` d
 ```python
 # Column 1 children
 # className="img-fluid" is a Bootstrap class and prevents the image spanning the next column
-html.Img(src=app.get_asset_url('event-chart-placeholder.png'), className="img-fluid"),
+html.Img(src=app.get_asset_url('line-chart-placeholder.png'), className="img-fluid"),
 
 # Column 2 children
 html.Img(src=app.get_asset_url('bar-chart-placeholder.png'), className="img-fluid"),
@@ -99,7 +99,7 @@ html.Img(src=app.get_asset_url('bar-chart-placeholder.png'), className="img-flui
 
 #### Row 4
 
-The third row has:
+This row has:
 
 - column 1: a map visualisation with markers for events. Add a placeholder image for now.
 - column 2: a card that displays details for a selected paralympic event, this will be dynamically generated when the
@@ -113,7 +113,7 @@ the [dbc.Card reference](https://dash-bootstrap-components.opensource.faculty.ai
 ```python
 # Column 2 children
 dbc.Card([
-    dbc.CardImg(src=app.get_asset_url("logos/2022_Beijing.png"), top=True),
+    dbc.CardImg(src=app.get_asset_url("logos/2022_Beijing.jpg"), top=True),
     dbc.CardBody([
         html.H4("Beijing 2022", className="card-title"),
         html.P("Number of athletes: XX", className="card-text", ),
@@ -129,4 +129,4 @@ dbc.Card([
 Run the app and check it displays as you expected. The design could be improved so feel free to make any changes you
 wish!
 
-[Next activity](1-7-multipage-app)
+[Next activity](1-7-multipage-app.md)

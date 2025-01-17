@@ -19,7 +19,6 @@ the page's dimensions and scaling. For example the following code would be place
 document.
 
 ```html
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
 ```
 
@@ -136,4 +135,4 @@ app.layout = dbc.Container([
 ])
 ```
 
-[Next activity](1-6-add-html-components)
+[Next activity](1-6-add-html-components.md)
