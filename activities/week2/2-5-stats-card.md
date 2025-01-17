@@ -31,7 +31,7 @@ dbc.Card([
 )
 ```
 
-Modify the existing Card code so that is a function:
+Modify the existing Card code so that it is a function:
 
 - The function takes a string in the format 'host year' as a parameter. This scatter geo currently uses this for each
   map marker.
@@ -107,4 +107,4 @@ Add the card into the layout e.g. `dbc.Col(children=[card], id='card', width=4),
 
 Check in the running app that the card is displayed.
 
-[Next activity](2-6-challenge)
+[Next activity](2-6-challenge.md)

@@ -19,7 +19,7 @@ Plotly graphing library for Python has two packages within it, Plotly Express an
 Plotly Express provides Python classes and functions to create most types of charts, and in most cases will be
 sufficient for the coursework.
 
-If you need to edit aspects of a chart that are not available through Express functions, and use Go instead.
+If you need to edit aspects of a chart that are not available through Express functions, use Go instead.
 
 Many of the chart examples in the [Plotly documentation](https://plotly.com/python/) start with an Express example, then
 show
@@ -49,22 +49,22 @@ This week's activities cover the data visualisations listed in the table below. 
 access the data. The purpose of this is to introduce different ways of accessing the data. For your coursework don't do
 this, pick one method to use.
 
-| Activity                      | Chart type                                       | Data access method       | Chart library  |
-|:------------------------------|:-------------------------------------------------|:-------------------------|:---------------|
-| [Activity 1](2-2-line-chart)  | Line chart                                       | pandas / .csv            | Plotly Express |
-| [Activity 2](2-3-bar-chart)   | Bar chart                                        | pandas / .csv            | Plotly Express |
-| [Activity 3](2-4-scatter-map) | Scatter geo map with markers                     | pandas / SQLite database | Plotly Express |
-| [Activity 4](2-5-stats-card)  | Summary statistics presented in a Bootstrap card | pandas / SQLite database | None           |
+| Activity                         | Chart type                                       | Data access method       | Chart library  |
+|:---------------------------------|:-------------------------------------------------|:-------------------------|:---------------|
+| [Activity 1](2-2-line-chart.md)  | Line chart                                       | pandas / .csv            | Plotly Express |
+| [Activity 2](2-3-bar-chart.md)   | Bar chart                                        | pandas / .csv            | Plotly Express |
+| [Activity 3](2-4-scatter-map.md) | Scatter geo map with markers                     | pandas / SQLite database | Plotly Express |
+| [Activity 4](2-5-stats-card.md)  | Summary statistics presented in a Bootstrap card | pandas / SQLite database | None           |
 
 ## Check the paralympics app runs
 
 Check that the app as at the end of week 1 runs:
 
-1. `python src/dash-single/paralympics_dash.py`
+1. `python src/student/dash-single/paralympics_dash.py`
 2. Go to the URL that is shown in the terminal. By default, this is <http://127.0.0.1:8050>.
 3. Stop the app using `CTRL+C`
 
 If the app did not run, you may need to get the latest version from the tutorials' repository. Go to GitHub; update your
 fork; then in your IDE pull the changes from GitHub to your local repository.
 
-[Next activity](2-2-line-chart)
+[Next activity](2-2-line-chart.md)

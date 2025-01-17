@@ -69,4 +69,4 @@ a dot it will show the city and year.
 There are options for styling the markers, though this requires some Plotly Go syntax. Refer to the [Plotly maps
 documentation](https://plotly.com/python/scatter-plots-on-maps/) if you want to try to change the marker styles.
 
-[Next activity](2-5-stats-card)
+[Next activity](2-5-stats-card.md)

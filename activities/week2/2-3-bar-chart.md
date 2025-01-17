@@ -77,4 +77,4 @@ Try and change some of the [styling options](https://plotly.com/python/styling-p
 add a title, change the
 colour of the bars (`color_discrete_map={'Male': 'blue', 'Female': 'green'}`).
 
-[Next activity](2-4-scatter-map)
+[Next activity](2-4-scatter-map.md)
