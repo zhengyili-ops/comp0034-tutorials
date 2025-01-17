@@ -60,6 +60,8 @@ that implements this for Dash apps.
 [Dash Bootstrap components](https://dash-bootstrap-components.opensource.faculty.ai/docs/components/layout/) supports
 the grid style design, with CSS styles to apply to rows and columns.
 
+Dash bootstrap components is recommended for the coursework.
+
 ### Inspiration from other apps
 
 Have a look at the examples of apps built with Dash. These may give you inspiration for the layout of your own app.
