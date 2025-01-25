@@ -56,8 +56,8 @@ layout = dbc.Container([
     # 标题行
     dbc.Row([
         dbc.Col([
-            html.H1("London Recycling Overview", className="text-center mb-4"),
-            html.P("Explore recycling trends and patterns across London boroughs", 
+            html.H1("Recycling Overview", className="text-center mb-4"),
+            html.P("Explore London's recycling trends and patterns", 
                    className="text-center mb-4")
         ])
     ]),
@@ -67,20 +67,14 @@ layout = dbc.Container([
         dbc.Col([
             html.Label([
                 "Select Year: ",
-                html.Small(id="selected-year-display", className="text-muted")
+                html.Small(id="year-display", className="text-muted")
             ], className="mb-2"),
             dcc.RangeSlider(
-                id='year-range-slider',
+                id='year-slider',
                 min=2003,
                 max=2022,
-                value=[2022, 2022],  # 默认选择最新年份
-                marks={
-                    year: {
-                        'label': str(year),
-                        'style': {'color': '#666'}
-                    }
-                    for year in range(2003, 2023)
-                },
+                value=[2022, 2022],
+                marks={str(year): str(year) for year in range(2003, 2023)},
                 step=None,
                 tooltip={"placement": "top", "always_visible": True},
                 className="px-2"
@@ -110,26 +104,28 @@ layout = dbc.Container([
         ], width=4),
     ], className="mb-4"),
     
-    # 地图和趋势图
+    # 趋势图
     dbc.Row([
-        # 地图
         dbc.Col([
             dbc.Card([
-                dbc.CardHeader("Recycling Rates Map"),
-                dbc.CardBody([
-                    dcc.Graph(id="london-map")
-                ])
-            ])
-        ], width=6),
-        # 趋势图
-        dbc.Col([
-            dbc.Card([
-                dbc.CardHeader("Overall Trends"),
+                dbc.CardHeader("Overall Recycling Trend"),
                 dbc.CardBody([
                     dcc.Graph(id="trend-chart")
                 ])
             ])
-        ], width=6),
+        ])
+    ], className="mb-4"),
+    
+    # 热力图
+    dbc.Row([
+        dbc.Col([
+            dbc.Card([
+                dbc.CardHeader("Recycling Rates by Area and Year"),
+                dbc.CardBody([
+                    dcc.Graph(id="heatmap")
+                ])
+            ])
+        ])
     ], className="mb-4"),
     
     # 排名表格
@@ -150,7 +146,7 @@ layout = dbc.Container([
                                     className="d-flex align-items-center"
                                 ),
                             ], className="align-items-center"),
-                        ], width=12),  # 改为12，占据整行
+                        ], width=12),
                     ], className="g-0 align-items-center"),
                 ], className="py-2"),
                 dbc.CardBody([
@@ -165,134 +161,228 @@ layout = dbc.Container([
     [Output("core-london-stats", "children"),
      Output("outer-london-stats", "children"),
      Output("non-london-stats", "children"),
-     Output("london-map", "figure"),
-     Output("trend-chart", "figure")],
-    [Input("year-range-slider", "value")]
+     Output("trend-chart", "figure"),
+     Output("heatmap", "figure"),
+     Output("year-display", "children"),
+     Output("rankings-table", "children"),
+     Output("ranking-period-display", "children")],
+    [Input("year-slider", "value")]
 )
 def update_overview(year_range):
+    if year_range is None:
+        year_range = [2022, 2022]  # 提供默认值
+        
     df = load_data()
     
     # 1. 计算统计信息
     def get_stats(status):
         if year_range[0] == year_range[1]:
-            # 单年份模式
             data = df[(df['Year'] == year_range[0]) & (df['London_Status'] == status)]
         else:
-            # 时间范围模式
             data = df[
                 (df['Year'].between(year_range[0], year_range[1])) & 
                 (df['London_Status'] == status)
             ]
         return {
-            'avg': data['Recycling_Rates'].mean(),
-            'max': data['Recycling_Rates'].max(),
-            'min': data['Recycling_Rates'].min()
+            'avg': data['Recycling_Rates'].mean() if not data.empty else 0,
+            'max': data['Recycling_Rates'].max() if not data.empty else 0,
+            'min': data['Recycling_Rates'].min() if not data.empty else 0
         }
     
-    core_stats = get_stats('Core London')
-    outer_stats = get_stats('Outer London')
-    non_london_stats = get_stats('Non-London')
-    
-    # 2. 创建地图 - 使用范围的最后一年或单一年份
-    map_year = year_range[1] if year_range[0] != year_range[1] else year_range[0]
-    map_fig = create_map(df, map_year)
-    
-    # 3. 创建趋势图
-    trend_fig = create_trend_chart(df)
-    
-    return (
-        create_stats_card(core_stats),
-        create_stats_card(outer_stats),
-        create_stats_card(non_london_stats),
-        map_fig,
-        trend_fig
-    )
+    try:
+        core_stats = get_stats('Core London')
+        outer_stats = get_stats('Outer London')
+        non_london_stats = get_stats('Non-London')
+        
+        # 2. 创建趋势图
+        trend_fig = update_trend(year_range)
+        
+        # 3. 创建热力图
+        heatmap_fig = create_heatmap(df, year_range)
+        
+        # 4. 创建排名表格
+        if year_range[0] == year_range[1]:
+            table = create_rankings_table(df, year_range[0], 'year')
+            period_display = f"({year_range[0]})"
+        else:
+            table = create_rankings_table(df, year_range, 'range')
+            period_display = f"(Average {year_range[0]}-{year_range[1]})"
+        
+        return (
+            create_stats_card(core_stats),
+            create_stats_card(outer_stats),
+            create_stats_card(non_london_stats),
+            trend_fig,
+            heatmap_fig,
+            f"({year_range[0]}-{year_range[1]})",
+            table,
+            period_display
+        )
+    except Exception as e:
+        print(f"Error in update_overview: {e}")
+        # 返回空值或默认值
+        return ["N/A"] * 7
 
-@callback(
-    [Output("rankings-table", "children"),
-     Output("ranking-period-display", "children")],
-    [Input("year-range-slider", "value")]
-)
-def update_rankings(year_range):
+def update_trend(year_range):
+    if year_range is None:
+        year_range = [2022, 2022]
+        
     df = load_data()
     
+    # 创建趋势数据
+    trend_data = df.groupby(['Year', 'London_Status'])['Recycling_Rates'].mean().reset_index()
+    
+    # 添加伦敦整体平均值
+    london_overall = df[df['London_Status'].isin(['Core London', 'Outer London'])].groupby('Year')['Recycling_Rates'].mean().reset_index()
+    london_overall['London_Status'] = 'London Overall'
+    
+    # 合并数据
+    trend_data = pd.concat([trend_data, london_overall])
+    
+    # 根据选择的年份范围筛选数据
+    trend_data = trend_data[
+        (trend_data['Year'] >= year_range[0]) & 
+        (trend_data['Year'] <= year_range[1])
+    ]
+    
+    # 设置颜色映射
+    color_map = {
+        'Core London': '#4e79a7',
+        'Outer London': '#f28e2b',
+        'Non-London': '#59a14f',
+        'London Overall': '#e15759'
+    }
+    
+    # 根据是否是单一年份选择图表类型
     if year_range[0] == year_range[1]:
-        # 单年份模式
-        table = create_rankings_table(df, year_range[0], 'year')
-        period_display = f"({year_range[0]})"
+        # 单一年份显示柱状图
+        fig = px.bar(
+            trend_data,
+            x='London_Status',
+            y='Recycling_Rates',
+            color='London_Status',
+            title=f'Recycling Rates by Region Type ({year_range[0]})',
+            labels={'Recycling_Rates': 'Average Recycling Rate (%)',
+                   'London_Status': 'Region Type'},
+            color_discrete_map=color_map,
+            text='Recycling_Rates'
+        )
+        
+        # 更新柱状图样式
+        fig.update_traces(
+            texttemplate='%{text:.1f}%',
+            textposition='auto',
+            hovertemplate="%{y:.1f}%<br>" +
+                         "<extra></extra>"
+        )
+        
+        # 柱状图特定布局
+        fig.update_layout(
+            showlegend=False,  # 不需要图例因为颜色已经表示了区域类型
+            yaxis=dict(
+                range=[0, max(trend_data['Recycling_Rates']) * 1.1],
+                tickformat='.1f'
+            )
+        )
     else:
-        # 时间范围模式
-        table = create_rankings_table(df, year_range, 'range')
-        period_display = f"(Average {year_range[0]}-{year_range[1]})"
+        # 时间范围显示折线图
+        fig = px.line(
+            trend_data,
+            x='Year',
+            y='Recycling_Rates',
+            color='London_Status',
+            title='Recycling Rates Trends by Region Type',
+            labels={'Recycling_Rates': 'Average Recycling Rate (%)',
+                   'Year': 'Year',
+                   'London_Status': 'Region Type'},
+            color_discrete_map=color_map
+        )
+        
+        # 折线图特定布局
+        fig.update_layout(
+            xaxis=dict(
+                range=[year_range[0]-0.5, year_range[1]+0.5],
+                tickmode='linear',
+                dtick=1
+            )
+        )
     
-    return table, period_display
-
-@callback(
-    Output("selected-year-display", "children"),
-    [Input("year-range-slider", "value")]
-)
-def update_year_display(value):
-    return f"({value[0]}-{value[1]})"
-
-def create_map(df, year):
-    # 创建地图可视化
-    map_data = df[df['Year'] == year]
-    
-    fig = go.Figure()
-    
-    for area in map_data['Area'].unique():
-        if area in LONDON_COORDS:
-            area_data = map_data[map_data['Area'] == area].iloc[0]
-            lon, lat = LONDON_COORDS[area]
-            
-            fig.add_trace(go.Scattergeo(
-                lon=[lon],
-                lat=[lat],
-                text=f"{area}<br>Recycling Rate: {area_data['Recycling_Rates']:.1f}%",
-                mode='markers',
-                marker=dict(
-                    size=10,
-                    color=area_data['Recycling_Rates'],
-                    colorscale='Viridis',
-                    showscale=True,
-                    colorbar_title="Recycling Rate (%)"
-                ),
-                name=area
-            ))
-    
+    # 通用布局设置
     fig.update_layout(
-        title=f"London Recycling Rates ({year})",
-        geo=dict(
-            scope='europe',
-            center=dict(lon=-0.1276, lat=51.5072),
-            projection_scale=50000,
-            showland=True,
-            landcolor='rgb(243, 243, 243)',
-            showcoastlines=True,
-            coastlinecolor='rgb(80, 80, 80)',
-            showframe=False
+        height=400,
+        hovermode='x unified',
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=1.02,
+            xanchor="right",
+            x=1
         ),
-        height=400
+        plot_bgcolor='rgba(240,240,240,0.3)',
+        xaxis_gridcolor='rgba(255,255,255,0.8)',
+        yaxis_gridcolor='rgba(255,255,255,0.8)'
     )
     
     return fig
 
-def create_trend_chart(df):
-    # 创建趋势图
-    trend_data = df.groupby(['Year', 'London_Status'])['Recycling_Rates'].mean().reset_index()
+def create_heatmap(df, year_range):
+    # 筛选数据
+    df_filtered = df[
+        (df['Year'] >= year_range[0]) & 
+        (df['Year'] <= year_range[1])
+    ]
     
-    fig = px.line(
-        trend_data,
-        x='Year',
-        y='Recycling_Rates',
-        color='London_Status',
-        title='Recycling Rates Trends by Region Type',
-        labels={'Recycling_Rates': 'Average Recycling Rate (%)',
-                'Year': 'Year',
-                'London_Status': 'Region Type'}
+    # 创建热力图数据
+    heatmap_data = df_filtered.pivot_table(
+        values='Recycling_Rates',
+        index='Area',
+        columns='Year',
+        aggfunc='mean'
+    ).round(1)
+    
+    # 按平均回收率排序区域
+    area_means = heatmap_data.mean(axis=1).sort_values(ascending=False)
+    heatmap_data = heatmap_data.reindex(area_means.index)
+    
+    # 创建热力图
+    fig = go.Figure(data=go.Heatmap(
+        z=heatmap_data.values,
+        x=heatmap_data.columns,
+        y=heatmap_data.index,
+        colorscale=[
+            [0, 'rgb(255,255,255)'],      # 最低值为白色
+            [0.2, 'rgb(220,230,242)'],    # 浅蓝色
+            [0.4, 'rgb(164,194,244)'],    # 中浅蓝色
+            [0.6, 'rgb(109,158,235)'],    # 中蓝色
+            [0.8, 'rgb(54,122,227)'],     # 深蓝色
+            [1, 'rgb(39,73,142)']         # 最深蓝色
+        ],
+        text=heatmap_data.values.round(1),
+        texttemplate='%{text}%',
+        textfont={"size": 10, "color": "black"},
+        hoverongaps=False,
+        hovertemplate='Area: %{y}<br>Year: %{x}<br>Rate: %{z:.1f}%<extra></extra>'
+    ))
+    
+    title_text = ('Recycling Rates by Area and Year ' +
+                 f"({year_range[0]}-{year_range[1]})" if year_range[0] != year_range[1]
+                 else f"({year_range[0]})")
+    
+    fig.update_layout(
+        title=title_text,
+        height=800,
+        yaxis=dict(
+            title='Area',
+            tickfont=dict(size=10)
+        ),
+        xaxis=dict(
+            title='Year',
+            tickmode='linear',
+            dtick=1
+        ),
+        margin=dict(l=150, r=20, t=30, b=50)
     )
     
-    fig.update_layout(height=400)
     return fig
 
 def create_rankings_table(df, year, ranking_type='year'):
