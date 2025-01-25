@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camden"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-0.1481, 51.5521],
+          [-0.1382, 51.5594],
+          [-0.1241, 51.5607],
+          [-0.1131, 51.5550],
+          [-0.1276, 51.5432],
+          [-0.1481, 51.5521]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City of London"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-0.1023, 51.5150],
+          [-0.0909, 51.5172],
+          [-0.0827, 51.5135],
+          [-0.0918, 51.5107],
+          [-0.1023, 51.5150]
+        ]]
+      }
+    }
+  ]
+} 

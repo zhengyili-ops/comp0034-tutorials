@@ -1,5 +1,7 @@
 from dash import Dash, html, dcc
 import dash_bootstrap_components as dbc
+from figure import line_chart, bar_gender, scatter_geo  # Import from figure.py instead of figures
+from dash.dependencies import Input, Output
 
 # Define meta tags and stylesheets
 meta_tags = [
@@ -9,6 +11,11 @@ external_stylesheets = [dbc.themes.BOOTSTRAP]
 
 # Create the Dash app
 app = Dash(__name__, external_stylesheets=external_stylesheets, meta_tags=meta_tags)
+
+# Create the line chart
+line_fig = line_chart("sports")
+bar_fig = bar_gender("Summer")  # 确保是 "Summer" 而不是 "summer"
+map_fig = scatter_geo()  # 创建地图
 
 # Define the layout with Bootstrap grid system
 app.layout = dbc.Container([
@@ -57,19 +64,22 @@ app.layout = dbc.Container([
     dbc.Row([
         # Column 1: Line chart
         dbc.Col([
-            html.Img(src=app.get_asset_url('line-chart-placeholder.png'), className="img-fluid")
-        ], width=6),
-        # Column 2: Bar chart
-        dbc.Col([
-            html.Img(src=app.get_asset_url('bar-chart-placeholder.png'), className="img-fluid")
-        ], width=6)
+            dcc.Graph(id="line-chart", figure=line_fig)
+        ], width=12)
     ]),
     
-    # Row 4: Map and Card
+    # Row 4: Bar chart
     dbc.Row([
-        # Column 1: Map
         dbc.Col([
-            html.Img(src=app.get_asset_url('map-placeholder.png'), className="img-fluid")
+            dcc.Graph(id="bar-chart", figure=bar_fig)
+        ], width=12)
+    ]),
+    
+    # Row 5: Map and Card
+    dbc.Row([
+        # Column 1: Map - 替换原来的静态图片
+        dbc.Col([
+            dcc.Graph(id="geo-map", figure=map_fig)  # 使用交互式地图
         ], width=8),
         # Column 2: Event details card
         dbc.Col([
@@ -86,6 +96,16 @@ app.layout = dbc.Container([
         ], width=4)
     ])
 ], fluid=True)
+
+# 在layout定义后添加回调
+@app.callback(
+    Output("line-chart", "figure"),
+    [Input("dropdown-input", "value"),
+     Input("checklist-input", "value")]
+)
+def update_charts(selected_feature, selected_types):
+    """Update the line chart based on user selection"""
+    return line_chart(selected_feature, selected_types)
 
 # Run the app
 if __name__ == '__main__':

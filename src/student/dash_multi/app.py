@@ -1,34 +1,34 @@
-from dash import Dash, html, dash, page_registry, page_container
+import sys
+from pathlib import Path
+sys.path.append(str(Path(__file__).parent.parent.parent))  # 添加项目根目录到路径
+
+from dash import Dash, html, dcc, page_container
+import dash
 import dash_bootstrap_components as dbc
+from dash.dependencies import Input, Output, State
 
-# 设置 meta tags 和样式表
-meta_tags = [
-    {"name": "viewport", "content": "width=device-width, initial-scale=1"},
-]
-external_stylesheets = [dbc.themes.BOOTSTRAP]
-
-# 创建应用，启用多页面功能
+# 创建应用实例
 app = Dash(__name__, 
-          external_stylesheets=external_stylesheets, 
-          meta_tags=meta_tags,
-          use_pages=True)
+           use_pages=True,  # 启用多页面功能
+           external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 # 创建导航栏
 navbar = dbc.NavbarSimple(
     children=[
-        dbc.NavItem(dbc.NavLink("Event Details", href="/events")),  # 简化路径
-        dbc.NavItem(dbc.NavLink("Charts", href="/charts")),  # 简化路径
+        dbc.NavItem(dbc.NavLink("Home", href="/")),
+        dbc.NavItem(dbc.NavLink("Charts", href="/charts")),
+        dbc.NavItem(dbc.NavLink("Events", href="/events")),
     ],
-    brand="Paralympics Dashboard",
-    brand_href="#",
+    brand="Paralympics Analysis",
+    brand_href="/",
     color="primary",
     dark=True,
 )
 
 # 定义应用布局
-app.layout = dbc.Container([
-    navbar,  # 导航栏
-    page_container  # 使用导入的 page_container
+app.layout = html.Div([
+    navbar,
+    dash.page_container  # 页面内容容器
 ])
 
 if __name__ == '__main__':

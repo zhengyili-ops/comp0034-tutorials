@@ -1,0 +1,861 @@
+Code_recycling,Area,Year,Recycling_Rates,Per_Capita_Recycling,Per_Capita_Reuse,Area_km2,Population,Population_Density,Reuse_Facility_Density,Resource_Recovery_Efficiency,Reuse_Coverage,Number of Reuse Organisations,Number of Charity Shops - 2007,Re-use Activity Weight (tonnes),London_Status,Region_and_Borough,Postcode,recycling_ranking,Code_reuse
+E09000002,Barking and Dagenham,2003,5,0.021 %/person,NaN,36.1,241300,"6,684",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,E,00AC
+E09000002,Barking and Dagenham,2004,14,0.058 %/person,NaN,36.1,241300,"6,684",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,E,00AC
+E09000002,Barking and Dagenham,2005,17,0.071 %/person,NaN,36.1,241100,"6,679",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,E,00AC
+E09000002,Barking and Dagenham,2006,21,0.087 %/person,NaN,36.1,240600,"6,665",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,E,00AC
+E09000002,Barking and Dagenham,2007,20,0.083 %/person,0.092 kg,36.1,240000,"6,648",8.3%,60.9%,27.7%,3,10,22,Outer London,East,IG11,E,00AC
+E09000002,Barking and Dagenham,2008,25,0.104 %/person,NaN,36.1,239300,"6,629",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,D,00AC
+E09000002,Barking and Dagenham,2009,33,0.139 %/person,NaN,36.1,238100,"6,596",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,C,00AC
+E09000002,Barking and Dagenham,2010,28,0.153 %/person,NaN,36.1,182800,"5,064",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,D,00AC
+E09000002,Barking and Dagenham,2011,30,0.160 %/person,NaN,36.1,187000,"5,180",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,C,00AC
+E09000002,Barking and Dagenham,2012,27,0.142 %/person,NaN,36.1,190700,"5,283",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,D,00AC
+E09000002,Barking and Dagenham,2013,25,0.128 %/person,NaN,36.1,194600,"5,391",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,D,00AC
+E09000002,Barking and Dagenham,2014,23,0.116 %/person,NaN,36.1,198700,"5,504",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,E,00AC
+E09000002,Barking and Dagenham,2015,19,0.094 %/person,NaN,36.1,203100,"5,626",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,E,00AC
+E09000002,Barking and Dagenham,2016,25,0.120 %/person,NaN,36.1,208200,"5,767",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,D,00AC
+E09000002,Barking and Dagenham,2017,25,0.119 %/person,NaN,36.1,210700,"5,837",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,D,00AC
+E09000002,Barking and Dagenham,2018,24,0.113 %/person,NaN,36.1,212000,"5,873",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,D,00AC
+E09000002,Barking and Dagenham,2019,25,0.117 %/person,NaN,36.1,212900,"5,898",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,D,00AC
+E09000002,Barking and Dagenham,2020,27,0.125 %/person,NaN,36.1,215200,"5,961",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,D,00AC
+E09000002,Barking and Dagenham,2021,31,0.143 %/person,NaN,36.1,216900,"6,008",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,C,00AC
+E09000002,Barking and Dagenham,2022,33,0.151 %/person,NaN,36.1,218600,"6,055",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,IG11,C,00AC
+E09000003,Barnet,2003,16,0.041 %/person,NaN,86.7,388300,"4,479",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,E,00AD
+E09000003,Barnet,2004,20,0.052 %/person,NaN,86.7,388100,"4,476",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,E,00AD
+E09000003,Barnet,2005,27,0.070 %/person,NaN,86.7,387900,"4,474",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,D,00AD
+E09000003,Barnet,2006,29,0.075 %/person,NaN,86.7,387500,"4,469",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,D,00AD
+E09000003,Barnet,2007,31,0.080 %/person,0.114 kg,86.7,387000,"4,464",1.2%,50.7%,38.1%,1,33,44,Outer London,North,N2,C,00AD
+E09000003,Barnet,2008,31,0.080 %/person,NaN,86.7,386100,"4,453",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,C,00AD
+E09000003,Barnet,2009,33,0.086 %/person,NaN,86.7,385100,"4,442",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,C,00AD
+E09000003,Barnet,2010,33,0.094 %/person,NaN,86.7,351400,"4,053",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,C,00AD
+E09000003,Barnet,2011,34,0.095 %/person,NaN,86.7,357500,"4,123",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,C,00AD
+E09000003,Barnet,2012,33,0.091 %/person,NaN,86.7,363800,"4,196",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,C,00AD
+E09000003,Barnet,2013,36,0.098 %/person,NaN,86.7,368300,"4,248",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,B,00AD
+E09000003,Barnet,2014,38,0.102 %/person,NaN,86.7,373700,"4,310",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,B,00AD
+E09000003,Barnet,2015,37,0.098 %/person,NaN,86.7,378800,"4,369",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,B,00AD
+E09000003,Barnet,2016,37,0.096 %/person,NaN,86.7,384800,"4,438",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,B,00AD
+E09000003,Barnet,2017,37,0.095 %/person,NaN,86.7,387800,"4,473",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,B,00AD
+E09000003,Barnet,2018,35,0.089 %/person,NaN,86.7,392100,"4,522",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,C,00AD
+E09000003,Barnet,2019,32,0.081 %/person,NaN,86.7,395900,"4,566",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,C,00AD
+E09000003,Barnet,2020,29,0.073 %/person,NaN,86.7,399200,"4,604",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,D,00AD
+E09000003,Barnet,2021,30,0.075 %/person,NaN,86.7,401700,"4,633",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,C,00AD
+E09000003,Barnet,2022,27,0.067 %/person,NaN,86.7,404400,"4,664",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N2,D,00AD
+E09000004,Bexley,2003,21,0.083 %/person,NaN,60.6,253000,"4,175",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,E,00AE
+E09000004,Bexley,2004,30,0.118 %/person,NaN,60.6,253400,"4,182",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,C,00AE
+E09000004,Bexley,2005,38,0.150 %/person,NaN,60.6,253800,"4,188",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,B,00AE
+E09000004,Bexley,2006,40,0.157 %/person,NaN,60.6,254000,"4,191",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,B,00AE
+E09000004,Bexley,2007,42,0.165 %/person,0.763 kg,60.6,254200,"4,195",3.3%,320.1%,36.3%,2,22,194,Outer London,South East,DA1,B,00AE
+E09000004,Bexley,2008,51,0.201 %/person,NaN,60.6,254200,"4,195",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000004,Bexley,2009,51,0.201 %/person,NaN,60.6,254100,"4,193",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000004,Bexley,2010,51,0.221 %/person,NaN,60.6,230700,"3,807",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000004,Bexley,2011,54,0.232 %/person,NaN,60.6,232800,"3,842",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000004,Bexley,2012,54,0.230 %/person,NaN,60.6,234300,"3,866",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000004,Bexley,2013,55,0.232 %/person,NaN,60.6,236800,"3,908",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000004,Bexley,2014,54,0.225 %/person,NaN,60.6,240000,"3,960",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000004,Bexley,2015,52,0.215 %/person,NaN,60.6,242400,"4,000",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000004,Bexley,2016,53,0.216 %/person,NaN,60.6,245100,"4,045",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000004,Bexley,2017,52,0.211 %/person,NaN,60.6,246100,"4,061",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000004,Bexley,2018,54,0.218 %/person,NaN,60.6,247300,"4,081",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000004,Bexley,2019,54,0.217 %/person,NaN,60.6,248300,"4,097",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000004,Bexley,2020,50,0.200 %/person,NaN,60.6,249400,"4,116",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000004,Bexley,2021,43,0.172 %/person,NaN,60.6,250500,"4,134",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000004,Bexley,2022,44,0.175 %/person,NaN,60.6,251700,"4,153",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,DA1,A,00AE
+E09000005,Brent,2003,10,0.031 %/person,NaN,43.2,321600,"7,444",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,E,00AF
+E09000005,Brent,2004,14,0.044 %/person,NaN,43.2,320800,"7,426",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,E,00AF
+E09000005,Brent,2005,20,0.063 %/person,NaN,43.2,319900,"7,405",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,E,00AF
+E09000005,Brent,2006,22,0.069 %/person,NaN,43.2,319000,"7,384",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,E,00AF
+E09000005,Brent,2007,21,0.066 %/person,0.120 kg,43.2,317800,"7,356",4.6%,88.0%,20.8%,2,9,38,Outer London,North West,NW1,E,00AF
+E09000005,Brent,2008,28,0.088 %/person,NaN,43.2,316600,"7,329",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,D,00AF
+E09000005,Brent,2009,29,0.092 %/person,NaN,43.2,315100,"7,294",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,D,00AF
+E09000005,Brent,2010,33,0.108 %/person,NaN,43.2,304800,"7,056",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,C,00AF
+E09000005,Brent,2011,37,0.119 %/person,NaN,43.2,312200,"7,227",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,B,00AF
+E09000005,Brent,2012,43,0.137 %/person,NaN,43.2,314600,"7,282",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,A,00AF
+E09000005,Brent,2013,41,0.129 %/person,NaN,43.2,317100,"7,340",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,B,00AF
+E09000005,Brent,2014,35,0.109 %/person,NaN,43.2,320100,"7,410",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,C,00AF
+E09000005,Brent,2015,36,0.111 %/person,NaN,43.2,323400,"7,486",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,B,00AF
+E09000005,Brent,2016,36,0.110 %/person,NaN,43.2,326400,"7,556",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,B,00AF
+E09000005,Brent,2017,37,0.112 %/person,NaN,43.2,329100,"7,618",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,B,00AF
+E09000005,Brent,2018,37,0.112 %/person,NaN,43.2,330800,"7,657",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,B,00AF
+E09000005,Brent,2019,34,0.103 %/person,NaN,43.2,329800,"7,634",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,C,00AF
+E09000005,Brent,2020,33,0.099 %/person,NaN,43.2,331700,"7,678",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,C,00AF
+E09000005,Brent,2021,38,0.114 %/person,NaN,43.2,332600,"7,699",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,B,00AF
+E09000005,Brent,2022,33,0.099 %/person,NaN,43.2,333800,"7,727",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW1,C,00AF
+E09000006,Bromley,2003,20,0.060 %/person,NaN,150.0,334100,"2,227",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,E,00AG
+E09000006,Bromley,2004,23,0.069 %/person,NaN,150.0,334400,"2,229",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,E,00AG
+E09000006,Bromley,2005,27,0.081 %/person,NaN,150.0,334600,"2,231",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,D,00AG
+E09000006,Bromley,2006,32,0.096 %/person,NaN,150.0,334700,"2,231",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,C,00AG
+E09000006,Bromley,2007,34,0.102 %/person,0.911 kg,150.0,334800,"2,232",2.7%,203.3%,19.3%,4,29,305,Outer London,South East,BR1,C,00AG
+E09000006,Bromley,2008,36,0.108 %/person,NaN,150.0,334700,"2,231",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,B,00AG
+E09000006,Bromley,2009,40,0.120 %/person,NaN,150.0,334400,"2,229",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,B,00AG
+E09000006,Bromley,2010,44,0.143 %/person,NaN,150.0,308600,"2,057",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,A,00AG
+E09000006,Bromley,2011,50,0.161 %/person,NaN,150.0,310600,"2,071",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,A,00AG
+E09000006,Bromley,2012,49,0.156 %/person,NaN,150.0,314000,"2,093",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,A,00AG
+E09000006,Bromley,2013,50,0.157 %/person,NaN,150.0,318200,"2,121",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,A,00AG
+E09000006,Bromley,2014,48,0.149 %/person,NaN,150.0,321600,"2,144",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,A,00AG
+E09000006,Bromley,2015,46,0.141 %/person,NaN,150.0,325300,"2,169",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,A,00AG
+E09000006,Bromley,2016,47,0.143 %/person,NaN,150.0,327600,"2,184",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,A,00AG
+E09000006,Bromley,2017,50,0.152 %/person,NaN,150.0,329400,"2,196",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,A,00AG
+E09000006,Bromley,2018,50,0.151 %/person,NaN,150.0,331100,"2,207",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,A,00AG
+E09000006,Bromley,2019,51,0.153 %/person,NaN,150.0,332300,"2,215",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,A,00AG
+E09000006,Bromley,2020,45,0.135 %/person,NaN,150.0,333800,"2,225",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,A,00AG
+E09000006,Bromley,2021,49,0.146 %/person,NaN,150.0,335400,"2,236",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,A,00AG
+E09000006,Bromley,2022,49,0.145 %/person,NaN,150.0,337000,"2,247",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South East,BR1,A,00AG
+E09000007,Camden,2003,19,0.092 %/person,NaN,21.8,207600,"9,523",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,E,00AA
+E09000007,Camden,2004,25,0.121 %/person,NaN,21.8,206800,"9,486",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,D,00AA
+E09000007,Camden,2005,27,0.131 %/person,NaN,21.8,205900,"9,445",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,D,00AA
+E09000007,Camden,2006,28,0.137 %/person,NaN,21.8,204800,"9,394",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,D,00AA
+E09000007,Camden,2007,27,0.132 %/person,0.196 kg,21.8,204000,"9,358",4.6%,183.5%,128.4%,1,28,40,Core London,Central,WC2,D,00AA
+E09000007,Camden,2008,28,0.138 %/person,NaN,21.8,203000,"9,312",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,D,00AA
+E09000007,Camden,2009,30,0.149 %/person,NaN,21.8,201900,"9,261",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,C,00AA
+E09000007,Camden,2010,32,0.149 %/person,NaN,21.8,214700,"9,849",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,C,00AA
+E09000007,Camden,2011,33,0.150 %/person,NaN,21.8,220100,"10,096",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,C,00AA
+E09000007,Camden,2012,31,0.138 %/person,NaN,21.8,224800,"10,312",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,C,00AA
+E09000007,Camden,2013,29,0.126 %/person,NaN,21.8,230500,"10,573",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,D,00AA
+E09000007,Camden,2014,26,0.110 %/person,NaN,21.8,236000,"10,826",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,D,00AA
+E09000007,Camden,2015,25,0.103 %/person,NaN,21.8,243800,"11,183",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,D,00AA
+E09000007,Camden,2016,27,0.108 %/person,NaN,21.8,249200,"11,431",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,D,00AA
+E09000007,Camden,2017,30,0.118 %/person,NaN,21.8,253400,"11,624",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,C,00AA
+E09000007,Camden,2018,31,0.118 %/person,NaN,21.8,262200,"12,028",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,C,00AA
+E09000007,Camden,2019,26,0.096 %/person,NaN,21.8,270000,"12,385",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,D,00AA
+E09000007,Camden,2020,29,0.106 %/person,NaN,21.8,273600,"12,550",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,D,00AA
+E09000007,Camden,2021,28,0.102 %/person,NaN,21.8,275500,"12,638",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,D,00AA
+E09000007,Camden,2022,28,0.101 %/person,NaN,21.8,277500,"12,729",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC2,D,00AA
+E09000001,City of London,2003,8,2.051 %/person,NaN,2.9,3900,"1,345",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,E,00AB
+E09000001,City of London,2004,14,3.590 %/person,NaN,2.9,3900,"1,345",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,E,00AB
+E09000001,City of London,2005,18,4.737 %/person,NaN,2.9,3800,"1,310",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,E,00AB
+E09000001,City of London,2006,28,7.368 %/person,NaN,2.9,3800,"1,310",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,D,00AB
+E09000001,City of London,2007,33,8.684 %/person,0.526 kg,2.9,3800,"1,310",69.0%,69.0%,34.5%,2,1,2,Core London,Central,EC1,C,00AB
+E09000001,City of London,2008,34,8.947 %/person,NaN,2.9,3800,"1,310",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,C,00AB
+E09000001,City of London,2009,35,9.211 %/person,NaN,2.9,3800,"1,310",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,C,00AB
+E09000001,City of London,2010,39,5.342 %/person,NaN,2.9,7300,"2,517",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,B,00AB
+E09000001,City of London,2011,37,5.000 %/person,NaN,2.9,7400,"2,552",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,B,00AB
+E09000001,City of London,2012,36,5.455 %/person,NaN,2.9,6600,"2,276",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,B,00AB
+E09000001,City of London,2013,39,6.500 %/person,NaN,2.9,6000,"2,069",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,B,00AB
+E09000001,City of London,2014,34,5.574 %/person,NaN,2.9,6100,"2,103",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,C,00AB
+E09000001,City of London,2015,31,4.627 %/person,NaN,2.9,6700,"2,310",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,C,00AB
+E09000001,City of London,2016,29,4.028 %/person,NaN,2.9,7200,"2,483",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,D,00AB
+E09000001,City of London,2017,29,3.766 %/person,NaN,2.9,7700,"2,655",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,D,00AB
+E09000001,City of London,2018,30,3.448 %/person,NaN,2.9,8700,"3,000",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,C,00AB
+E09000001,City of London,2019,29,2.990 %/person,NaN,2.9,9700,"3,345",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,D,00AB
+E09000001,City of London,2020,30,3.093 %/person,NaN,2.9,9700,"3,345",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,C,00AB
+E09000001,City of London,2021,32,3.333 %/person,NaN,2.9,9600,"3,310",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,C,00AB
+E09000001,City of London,2022,30,3.158 %/person,NaN,2.9,9500,"3,276",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,EC1,C,00AB
+E09000008,Croydon,2003,14,0.034 %/person,NaN,86.5,414800,"4,795",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,E,00AH
+E09000008,Croydon,2004,13,0.031 %/person,NaN,86.5,414800,"4,795",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,E,00AH
+E09000008,Croydon,2005,16,0.039 %/person,NaN,86.5,414700,"4,794",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,E,00AH
+E09000008,Croydon,2006,20,0.048 %/person,NaN,86.5,414600,"4,793",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,E,00AH
+E09000008,Croydon,2007,23,0.055 %/person,0.627 kg,86.5,414600,"4,793",3.5%,300.6%,24.3%,3,21,260,Outer London,South West,CR0,E,00AH
+E09000008,Croydon,2008,28,0.068 %/person,NaN,86.5,413900,"4,785",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,D,00AH
+E09000008,Croydon,2009,32,0.077 %/person,NaN,86.5,413000,"4,775",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,C,00AH
+E09000008,Croydon,2010,34,0.095 %/person,NaN,86.5,358000,"4,139",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,C,00AH
+E09000008,Croydon,2011,38,0.104 %/person,NaN,86.5,364800,"4,217",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,B,00AH
+E09000008,Croydon,2012,44,0.119 %/person,NaN,86.5,369200,"4,268",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,A,00AH
+E09000008,Croydon,2013,42,0.112 %/person,NaN,86.5,373600,"4,319",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,B,00AH
+E09000008,Croydon,2014,40,0.106 %/person,NaN,86.5,377100,"4,360",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,B,00AH
+E09000008,Croydon,2015,38,0.100 %/person,NaN,86.5,380100,"4,394",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,B,00AH
+E09000008,Croydon,2016,39,0.102 %/person,NaN,86.5,383300,"4,431",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,B,00AH
+E09000008,Croydon,2017,38,0.099 %/person,NaN,86.5,384800,"4,449",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,B,00AH
+E09000008,Croydon,2018,47,0.122 %/person,NaN,86.5,385300,"4,454",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,A,00AH
+E09000008,Croydon,2019,49,0.127 %/person,NaN,86.5,386700,"4,471",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,A,00AH
+E09000008,Croydon,2020,41,0.106 %/person,NaN,86.5,388400,"4,490",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,B,00AH
+E09000008,Croydon,2021,39,0.100 %/person,NaN,86.5,389900,"4,508",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,B,00AH
+E09000008,Croydon,2022,37,0.095 %/person,NaN,86.5,391500,"4,526",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,CR0,B,00AH
+E09000009,Ealing,2003,15,0.041 %/person,NaN,55.5,361700,"6,517",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,E,00AJ
+E09000009,Ealing,2004,15,0.042 %/person,NaN,55.5,361000,"6,505",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,E,00AJ
+E09000009,Ealing,2005,19,0.053 %/person,NaN,55.5,360200,"6,490",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,E,00AJ
+E09000009,Ealing,2006,25,0.070 %/person,NaN,55.5,359200,"6,472",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,D,00AJ
+E09000009,Ealing,2007,29,0.081 %/person,0.112 kg,55.5,358100,"6,452",3.6%,72.1%,37.8%,2,21,40,Outer London,West,W5,D,00AJ
+E09000009,Ealing,2008,35,0.098 %/person,NaN,55.5,356700,"6,427",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,C,00AJ
+E09000009,Ealing,2009,38,0.107 %/person,NaN,55.5,355000,"6,396",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,B,00AJ
+E09000009,Ealing,2010,40,0.120 %/person,NaN,55.5,334100,"6,020",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,B,00AJ
+E09000009,Ealing,2011,41,0.121 %/person,NaN,55.5,339300,"6,114",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,B,00AJ
+E09000009,Ealing,2012,41,0.120 %/person,NaN,55.5,340300,"6,132",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,B,00AJ
+E09000009,Ealing,2013,40,0.117 %/person,NaN,55.5,342100,"6,164",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,B,00AJ
+E09000009,Ealing,2014,40,0.117 %/person,NaN,55.5,343000,"6,180",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,B,00AJ
+E09000009,Ealing,2015,43,0.125 %/person,NaN,55.5,344300,"6,204",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,A,00AJ
+E09000009,Ealing,2016,51,0.148 %/person,NaN,55.5,344800,"6,213",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,A,00AJ
+E09000009,Ealing,2017,49,0.143 %/person,NaN,55.5,342700,"6,175",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,A,00AJ
+E09000009,Ealing,2018,53,0.155 %/person,NaN,55.5,342000,"6,162",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,A,00AJ
+E09000009,Ealing,2019,48,0.140 %/person,NaN,55.5,341800,"6,159",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,A,00AJ
+E09000009,Ealing,2020,49,0.143 %/person,NaN,55.5,342600,"6,173",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,A,00AJ
+E09000009,Ealing,2021,48,0.140 %/person,NaN,55.5,342900,"6,178",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,A,00AJ
+E09000009,Ealing,2022,48,0.140 %/person,NaN,55.5,343300,"6,186",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,W5,A,00AJ
+E12000006,East,2003,23,0.004 %/person,NaN,19116.0,5700000,298,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,E,
+E12000006,East,2004,30,0.005 %/person,NaN,19116.0,5734200,300,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000006,East,2005,34,0.006 %/person,NaN,19116.0,5768605,302,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000006,East,2006,38,0.007 %/person,NaN,19116.0,5803216,304,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000006,East,2007,41,0.007 %/person,NaN,19116.0,5838036,305,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000006,East,2008,44,0.007 %/person,NaN,19116.0,5873064,307,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000006,East,2009,46,0.008 %/person,NaN,19116.0,5908302,309,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000006,East,2010,49,0.008 %/person,NaN,19116.0,5943752,311,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000006,East,2011,50,0.008 %/person,NaN,19116.0,5979415,313,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000006,East,2012,49,0.008 %/person,NaN,19116.0,6015291,315,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000006,East,2013,49,0.008 %/person,NaN,19116.0,6051383,317,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000006,East,2014,49,0.008 %/person,NaN,19116.0,6087691,318,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000006,East,2015,49,0.008 %/person,NaN,19116.0,6124217,320,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000006,East,2016,49,0.008 %/person,NaN,19116.0,6160963,322,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000006,East,2017,49,0.008 %/person,NaN,19116.0,6197928,324,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000006,East,2018,49,0.008 %/person,NaN,19116.0,6235116,326,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000006,East,2019,49,0.008 %/person,NaN,19116.0,6272527,328,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000006,East,2020,46,0.007 %/person,NaN,19116.0,6310162,330,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000006,East,2021,46,0.007 %/person,NaN,19116.0,6348023,332,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000006,East,2022,45,0.007 %/person,NaN,19116.0,6386111,334,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000004,East Midlands,2003,19,0.004 %/person,NaN,15627.0,4400000,282,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,E,
+E12000004,East Midlands,2004,26,0.006 %/person,NaN,15627.0,4421999,283,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,D,
+E12000004,East Midlands,2005,32,0.007 %/person,NaN,15627.0,4444109,284,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000004,East Midlands,2006,36,0.008 %/person,NaN,15627.0,4466330,286,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000004,East Midlands,2007,42,0.009 %/person,NaN,15627.0,4488662,287,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000004,East Midlands,2008,44,0.010 %/person,NaN,15627.0,4511105,289,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000004,East Midlands,2009,46,0.010 %/person,NaN,15627.0,4533661,290,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000004,East Midlands,2010,46,0.010 %/person,NaN,15627.0,4556329,292,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000004,East Midlands,2011,47,0.010 %/person,NaN,15627.0,4579110,293,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000004,East Midlands,2012,47,0.010 %/person,NaN,15627.0,4602006,294,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000004,East Midlands,2013,46,0.010 %/person,NaN,15627.0,4625016,296,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000004,East Midlands,2014,45,0.010 %/person,NaN,15627.0,4648141,297,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000004,East Midlands,2015,45,0.010 %/person,NaN,15627.0,4671382,299,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000004,East Midlands,2016,46,0.010 %/person,NaN,15627.0,4694739,300,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000004,East Midlands,2017,44,0.009 %/person,NaN,15627.0,4718212,302,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000004,East Midlands,2018,44,0.009 %/person,NaN,15627.0,4741804,303,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000004,East Midlands,2019,44,0.009 %/person,NaN,15627.0,4765513,305,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000004,East Midlands,2020,41,0.009 %/person,NaN,15627.0,4789340,306,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000004,East Midlands,2021,42,0.009 %/person,NaN,15627.0,4813287,308,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000004,East Midlands,2022,41,0.008 %/person,NaN,15627.0,4837353,310,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E09000010,Enfield,2003,16,0.045 %/person,NaN,82.2,355200,"4,321",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,E,00AK
+E09000010,Enfield,2004,24,0.068 %/person,NaN,82.2,354900,"4,318",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,D,00AK
+E09000010,Enfield,2005,27,0.076 %/person,NaN,82.2,354600,"4,314",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,D,00AK
+E09000010,Enfield,2006,30,0.085 %/person,NaN,82.2,354100,"4,308",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,C,00AK
+E09000010,Enfield,2007,28,0.079 %/person,0.139 kg,82.2,353600,"4,302",2.4%,59.6%,25.5%,2,21,49,Outer London,North,N1,D,00AK
+E09000010,Enfield,2008,27,0.077 %/person,NaN,82.2,352700,"4,291",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,D,00AK
+E09000010,Enfield,2009,31,0.088 %/person,NaN,82.2,351700,"4,279",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,C,00AK
+E09000010,Enfield,2010,32,0.104 %/person,NaN,82.2,307600,"3,742",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,C,00AK
+E09000010,Enfield,2011,35,0.112 %/person,NaN,82.2,313900,"3,819",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,C,00AK
+E09000010,Enfield,2012,39,0.123 %/person,NaN,82.2,317300,"3,860",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,B,00AK
+E09000010,Enfield,2013,39,0.122 %/person,NaN,82.2,320300,"3,897",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,B,00AK
+E09000010,Enfield,2014,39,0.120 %/person,NaN,82.2,324400,"3,946",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,B,00AK
+E09000010,Enfield,2015,36,0.110 %/person,NaN,82.2,328700,"3,999",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,B,00AK
+E09000010,Enfield,2016,37,0.111 %/person,NaN,82.2,332100,"4,040",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,B,00AK
+E09000010,Enfield,2017,36,0.108 %/person,NaN,82.2,332700,"4,047",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,B,00AK
+E09000010,Enfield,2018,33,0.099 %/person,NaN,82.2,333900,"4,062",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,C,00AK
+E09000010,Enfield,2019,33,0.099 %/person,NaN,82.2,333800,"4,061",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,C,00AK
+E09000010,Enfield,2020,33,0.098 %/person,NaN,82.2,335400,"4,080",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,C,00AK
+E09000010,Enfield,2021,31,0.092 %/person,NaN,82.2,336500,"4,094",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,C,00AK
+E09000010,Enfield,2022,34,0.101 %/person,NaN,82.2,337800,"4,109",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N1,C,00AK
+E92000001,England,2003,18,0.000 %/person,NaN,130278.0,49925500,383,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,E,
+E92000001,England,2004,23,0.000 %/person,NaN,130278.0,50194600,385,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,E,
+E92000001,England,2005,27,0.001 %/person,NaN,130278.0,50606000,388,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,D,
+E92000001,England,2006,31,0.001 %/person,NaN,130278.0,50965200,391,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,C,
+E92000001,England,2007,35,0.001 %/person,NaN,130278.0,51381100,394,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,C,
+E92000001,England,2008,38,0.001 %/person,NaN,130278.0,51815900,398,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,B,
+E92000001,England,2009,40,0.001 %/person,NaN,130278.0,52196400,401,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,B,
+E92000001,England,2010,41,0.001 %/person,NaN,130278.0,52642500,404,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,B,
+E92000001,England,2011,43,0.001 %/person,NaN,130278.0,53107200,408,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,A,
+E92000001,England,2012,43,0.001 %/person,NaN,130278.0,53506800,411,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,A,
+E92000001,England,2013,43,0.001 %/person,NaN,130278.0,53918700,414,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,A,
+E92000001,England,2014,44,0.001 %/person,NaN,130278.0,54370300,417,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,A,
+E92000001,England,2015,43,0.001 %/person,NaN,130278.0,54808700,421,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,A,
+E92000001,England,2016,44,0.001 %/person,NaN,130278.0,55289000,424,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,A,
+E92000001,England,2017,43,0.001 %/person,NaN,130278.0,55619500,427,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,A,
+E92000001,England,2018,44,0.001 %/person,NaN,130278.0,55924500,429,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,A,
+E92000001,England,2019,44,0.001 %/person,NaN,130278.0,56230100,432,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,A,
+E92000001,England,2020,42,0.001 %/person,NaN,130278.0,56326000,432,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,B,
+E92000001,England,2021,43,0.001 %/person,NaN,130278.0,56554900,434,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,A,
+E92000001,England,2022,42,0.001 %/person,NaN,130278.0,57112500,438,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,England,N/A,B,
+E09000011,Greenwich,2003,12,0.041 %/person,NaN,47.3,290800,"6,148",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,E,00AL
+E09000011,Greenwich,2004,19,0.065 %/person,NaN,47.3,290300,"6,137",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,E,00AL
+E09000011,Greenwich,2005,22,0.076 %/person,NaN,47.3,289600,"6,123",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,E,00AL
+E09000011,Greenwich,2006,24,0.083 %/person,NaN,47.3,288700,"6,104",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,D,00AL
+E09000011,Greenwich,2007,31,0.108 %/person,0.803 kg,47.3,287700,"6,082",6.3%,488.4%,40.2%,3,19,231,Core London,South East,SE10,C,00AL
+E09000011,Greenwich,2008,42,0.147 %/person,NaN,47.3,286400,"6,055",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,B,00AL
+E09000011,Greenwich,2009,35,0.123 %/person,NaN,47.3,285100,"6,027",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,C,00AL
+E09000011,Greenwich,2010,37,0.148 %/person,NaN,47.3,249200,"5,268",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,B,00AL
+E09000011,Greenwich,2011,39,0.153 %/person,NaN,47.3,255500,"5,402",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,B,00AL
+E09000011,Greenwich,2012,40,0.154 %/person,NaN,47.3,260000,"5,497",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,B,00AL
+E09000011,Greenwich,2013,39,0.148 %/person,NaN,47.3,264100,"5,584",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,B,00AL
+E09000011,Greenwich,2014,34,0.126 %/person,NaN,47.3,268900,"5,685",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,C,00AL
+E09000011,Greenwich,2015,35,0.128 %/person,NaN,47.3,274500,"5,803",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,C,00AL
+E09000011,Greenwich,2016,35,0.125 %/person,NaN,47.3,279100,"5,901",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,C,00AL
+E09000011,Greenwich,2017,35,0.124 %/person,NaN,47.3,282800,"5,979",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,C,00AL
+E09000011,Greenwich,2018,33,0.115 %/person,NaN,47.3,286200,"6,051",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,C,00AL
+E09000011,Greenwich,2019,33,0.115 %/person,NaN,47.3,287900,"6,087",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,C,00AL
+E09000011,Greenwich,2020,32,0.110 %/person,NaN,47.3,290700,"6,146",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,C,00AL
+E09000011,Greenwich,2021,32,0.109 %/person,NaN,47.3,293200,"6,199",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,C,00AL
+E09000011,Greenwich,2022,29,0.098 %/person,NaN,47.3,295600,"6,249",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE10,D,00AL
+E09000012,Hackney,2003,6,0.020 %/person,NaN,19.1,294100,"15,398",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,E,00AM
+E09000012,Hackney,2004,12,0.041 %/person,NaN,19.1,292700,"15,325",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,E,00AM
+E09000012,Hackney,2005,16,0.055 %/person,NaN,19.1,291300,"15,251",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,E,00AM
+E09000012,Hackney,2006,20,0.069 %/person,NaN,19.1,289800,"15,173",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,E,00AM
+E09000012,Hackney,2007,22,0.076 %/person,0.184 kg,19.1,288400,"15,099",20.9%,277.5%,47.1%,4,9,53,Core London,North East,E2,E,00AM
+E09000012,Hackney,2008,23,0.080 %/person,NaN,19.1,287000,"15,026",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,E,00AM
+E09000012,Hackney,2009,24,0.084 %/person,NaN,19.1,285500,"14,948",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,D,00AM
+E09000012,Hackney,2010,25,0.103 %/person,NaN,19.1,241700,"12,654",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,D,00AM
+E09000012,Hackney,2011,24,0.097 %/person,NaN,19.1,247200,"12,942",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,D,00AM
+E09000012,Hackney,2012,24,0.095 %/person,NaN,19.1,252200,"13,204",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,D,00AM
+E09000012,Hackney,2013,25,0.097 %/person,NaN,19.1,257400,"13,476",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,D,00AM
+E09000012,Hackney,2014,25,0.095 %/person,NaN,19.1,263100,"13,775",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,D,00AM
+E09000012,Hackney,2015,25,0.093 %/person,NaN,19.1,268600,"14,063",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,D,00AM
+E09000012,Hackney,2016,27,0.099 %/person,NaN,19.1,273200,"14,304",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,D,00AM
+E09000012,Hackney,2017,27,0.098 %/person,NaN,19.1,275900,"14,445",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,D,00AM
+E09000012,Hackney,2018,28,0.100 %/person,NaN,19.1,279700,"14,644",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,D,00AM
+E09000012,Hackney,2019,28,0.100 %/person,NaN,19.1,281100,"14,717",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,D,00AM
+E09000012,Hackney,2020,28,0.098 %/person,NaN,19.1,284300,"14,885",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,D,00AM
+E09000012,Hackney,2021,29,0.101 %/person,NaN,19.1,287100,"15,031",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,D,00AM
+E09000012,Hackney,2022,26,0.090 %/person,NaN,19.1,289800,"15,173",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,North East,E2,D,00AM
+E09000013,Hammersmith and Fulham,2003,16,0.093 %/person,NaN,16.4,171300,"10,445",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,E,00AN
+E09000013,Hammersmith and Fulham,2004,20,0.117 %/person,NaN,16.4,170500,"10,396",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,E,00AN
+E09000013,Hammersmith and Fulham,2005,21,0.124 %/person,NaN,16.4,169600,"10,341",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,E,00AN
+E09000013,Hammersmith and Fulham,2006,24,0.142 %/person,NaN,16.4,168800,"10,293",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,D,00AN
+E09000013,Hammersmith and Fulham,2007,27,0.161 %/person,0.286 kg,16.4,167900,"10,238",24.4%,292.7%,128.0%,4,21,48,Core London,West,W6,D,00AN
+E09000013,Hammersmith and Fulham,2008,28,0.168 %/person,NaN,16.4,166800,"10,171",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,D,00AN
+E09000013,Hammersmith and Fulham,2009,27,0.163 %/person,NaN,16.4,165900,"10,116",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,D,00AN
+E09000013,Hammersmith and Fulham,2010,28,0.155 %/person,NaN,16.4,180800,"11,024",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,D,00AN
+E09000013,Hammersmith and Fulham,2011,30,0.164 %/person,NaN,16.4,182400,"11,122",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,C,00AN
+E09000013,Hammersmith and Fulham,2012,23,0.126 %/person,NaN,16.4,182100,"11,104",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,E,00AN
+E09000013,Hammersmith and Fulham,2013,21,0.116 %/person,NaN,16.4,181400,"11,061",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,E,00AN
+E09000013,Hammersmith and Fulham,2014,21,0.116 %/person,NaN,16.4,181700,"11,079",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,E,00AN
+E09000013,Hammersmith and Fulham,2015,22,0.121 %/person,NaN,16.4,182200,"11,110",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,E,00AN
+E09000013,Hammersmith and Fulham,2016,23,0.127 %/person,NaN,16.4,181800,"11,085",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,E,00AN
+E09000013,Hammersmith and Fulham,2017,24,0.131 %/person,NaN,16.4,183000,"11,159",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,D,00AN
+E09000013,Hammersmith and Fulham,2018,24,0.129 %/person,NaN,16.4,185400,"11,305",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,D,00AN
+E09000013,Hammersmith and Fulham,2019,26,0.140 %/person,NaN,16.4,185100,"11,287",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,D,00AN
+E09000013,Hammersmith and Fulham,2020,28,0.151 %/person,NaN,16.4,186000,"11,341",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,D,00AN
+E09000013,Hammersmith and Fulham,2021,26,0.139 %/person,NaN,16.4,186700,"11,384",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,D,00AN
+E09000013,Hammersmith and Fulham,2022,26,0.139 %/person,NaN,16.4,187400,"11,427",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,West,W6,D,00AN
+E09000014,Haringey,2003,9,0.032 %/person,NaN,29.6,283700,"9,584",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,E,00AP
+E09000014,Haringey,2004,14,0.050 %/person,NaN,29.6,282600,"9,547",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,E,00AP
+E09000014,Haringey,2005,19,0.067 %/person,NaN,29.6,281500,"9,510",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,E,00AP
+E09000014,Haringey,2006,25,0.089 %/person,NaN,29.6,280600,"9,480",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,D,00AP
+E09000014,Haringey,2007,26,0.093 %/person,0.297 kg,29.6,279600,"9,446",10.1%,280.4%,60.8%,3,18,83,Outer London,North,N3,D,00AP
+E09000014,Haringey,2008,22,0.079 %/person,NaN,29.6,278500,"9,409",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,E,00AP
+E09000014,Haringey,2009,25,0.090 %/person,NaN,29.6,277200,"9,365",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,D,00AP
+E09000014,Haringey,2010,28,0.111 %/person,NaN,29.6,252700,"8,537",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,D,00AP
+E09000014,Haringey,2011,26,0.102 %/person,NaN,29.6,255500,"8,632",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,D,00AP
+E09000014,Haringey,2012,32,0.124 %/person,NaN,29.6,257900,"8,713",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,C,00AP
+E09000014,Haringey,2013,36,0.138 %/person,NaN,29.6,261000,"8,818",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,B,00AP
+E09000014,Haringey,2014,37,0.140 %/person,NaN,29.6,264400,"8,932",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,B,00AP
+E09000014,Haringey,2015,36,0.134 %/person,NaN,29.6,268300,"9,064",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,B,00AP
+E09000014,Haringey,2016,36,0.132 %/person,NaN,29.6,272100,"9,193",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,B,00AP
+E09000014,Haringey,2017,33,0.122 %/person,NaN,29.6,271200,"9,162",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,C,00AP
+E09000014,Haringey,2018,29,0.107 %/person,NaN,29.6,270600,"9,142",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,D,00AP
+E09000014,Haringey,2019,30,0.112 %/person,NaN,29.6,268600,"9,074",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,C,00AP
+E09000014,Haringey,2020,31,0.115 %/person,NaN,29.6,270200,"9,128",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,C,00AP
+E09000014,Haringey,2021,30,0.111 %/person,NaN,29.6,271200,"9,162",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,C,00AP
+E09000014,Haringey,2022,27,0.099 %/person,NaN,29.6,272400,"9,203",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North,N3,D,00AP
+E09000015,Harrow,2003,16,0.065 %/person,NaN,50.5,245300,"4,857",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,E,00AQ
+E09000015,Harrow,2004,19,0.077 %/person,NaN,50.5,245300,"4,857",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,E,00AQ
+E09000015,Harrow,2005,27,0.110 %/person,NaN,50.5,245200,"4,855",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,D,00AQ
+E09000015,Harrow,2006,28,0.114 %/person,NaN,50.5,245000,"4,851",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,D,00AQ
+E09000015,Harrow,2007,40,0.163 %/person,0.106 kg,50.5,244800,"4,848",4.0%,51.5%,53.5%,2,27,26,Outer London,North West,NW2,B,00AQ
+E09000015,Harrow,2008,43,0.176 %/person,NaN,50.5,244600,"4,844",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,A,00AQ
+E09000015,Harrow,2009,46,0.188 %/person,NaN,50.5,244200,"4,836",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,A,00AQ
+E09000015,Harrow,2010,50,0.211 %/person,NaN,50.5,237500,"4,703",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,A,00AQ
+E09000015,Harrow,2011,48,0.200 %/person,NaN,50.5,240500,"4,762",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,A,00AQ
+E09000015,Harrow,2012,45,0.186 %/person,NaN,50.5,242000,"4,792",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,A,00AQ
+E09000015,Harrow,2013,49,0.202 %/person,NaN,50.5,243000,"4,812",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,A,00AQ
+E09000015,Harrow,2014,45,0.184 %/person,NaN,50.5,245100,"4,853",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,A,00AQ
+E09000015,Harrow,2015,41,0.166 %/person,NaN,50.5,246800,"4,887",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,B,00AQ
+E09000015,Harrow,2016,40,0.161 %/person,NaN,50.5,248700,"4,925",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,B,00AQ
+E09000015,Harrow,2017,41,0.165 %/person,NaN,50.5,248900,"4,929",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,B,00AQ
+E09000015,Harrow,2018,40,0.160 %/person,NaN,50.5,250100,"4,952",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,B,00AQ
+E09000015,Harrow,2019,39,0.155 %/person,NaN,50.5,251200,"4,974",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,B,00AQ
+E09000015,Harrow,2020,36,0.143 %/person,NaN,50.5,252500,"5,000",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,B,00AQ
+E09000015,Harrow,2021,36,0.142 %/person,NaN,50.5,253300,"5,016",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,B,00AQ
+E09000015,Harrow,2022,30,0.118 %/person,NaN,50.5,254100,"5,032",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North West,NW2,C,00AQ
+E09000016,Havering,2003,8,0.033 %/person,NaN,112.3,239300,"2,131",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,E,00AR
+E09000016,Havering,2004,16,0.067 %/person,NaN,112.3,239900,"2,136",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,E,00AR
+E09000016,Havering,2005,18,0.075 %/person,NaN,112.3,240500,"2,142",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,E,00AR
+E09000016,Havering,2006,20,0.083 %/person,NaN,112.3,240900,"2,145",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,E,00AR
+E09000016,Havering,2007,24,0.099 %/person,0.041 kg,112.3,241300,"2,149",0.9%,8.9%,13.4%,1,15,10,Outer London,East,RM1,D,00AR
+E09000016,Havering,2008,27,0.112 %/person,NaN,112.3,241500,"2,150",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,D,00AR
+E09000016,Havering,2009,34,0.141 %/person,NaN,112.3,241700,"2,152",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,C,00AR
+E09000016,Havering,2010,31,0.131 %/person,NaN,112.3,236200,"2,103",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,C,00AR
+E09000016,Havering,2011,36,0.151 %/person,NaN,112.3,237900,"2,118",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,B,00AR
+E09000016,Havering,2012,35,0.146 %/person,NaN,112.3,239700,"2,134",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,C,00AR
+E09000016,Havering,2013,32,0.132 %/person,NaN,112.3,242100,"2,156",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,C,00AR
+E09000016,Havering,2014,32,0.130 %/person,NaN,112.3,246000,"2,191",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,C,00AR
+E09000016,Havering,2015,32,0.128 %/person,NaN,112.3,249400,"2,221",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,C,00AR
+E09000016,Havering,2016,37,0.146 %/person,NaN,112.3,253400,"2,256",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,B,00AR
+E09000016,Havering,2017,37,0.145 %/person,NaN,112.3,256000,"2,280",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,B,00AR
+E09000016,Havering,2018,37,0.144 %/person,NaN,112.3,257800,"2,296",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,B,00AR
+E09000016,Havering,2019,38,0.146 %/person,NaN,112.3,259600,"2,312",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,B,00AR
+E09000016,Havering,2020,35,0.134 %/person,NaN,112.3,261300,"2,327",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,C,00AR
+E09000016,Havering,2021,37,0.141 %/person,NaN,112.3,263000,"2,342",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,B,00AR
+E09000016,Havering,2022,37,0.140 %/person,NaN,112.3,264900,"2,359",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,RM1,B,00AR
+E09000017,Hillingdon,2003,34,0.113 %/person,NaN,115.7,302000,"2,610",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,C,00AS
+E09000017,Hillingdon,2004,27,0.089 %/person,NaN,115.7,302000,"2,610",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,D,00AS
+E09000017,Hillingdon,2005,28,0.093 %/person,NaN,115.7,301800,"2,608",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,D,00AS
+E09000017,Hillingdon,2006,31,0.103 %/person,NaN,115.7,301700,"2,608",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,C,00AS
+E09000017,Hillingdon,2007,34,0.113 %/person,1.029 kg,115.7,301300,"2,604",1.7%,267.9%,10.4%,2,12,310,Outer London,West,UB2,C,00AS
+E09000017,Hillingdon,2008,35,0.116 %/person,NaN,115.7,301000,"2,602",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,C,00AS
+E09000017,Hillingdon,2009,41,0.137 %/person,NaN,115.7,300200,"2,595",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,B,00AS
+E09000017,Hillingdon,2010,43,0.160 %/person,NaN,115.7,269500,"2,329",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,A,00AS
+E09000017,Hillingdon,2011,43,0.156 %/person,NaN,115.7,275500,"2,381",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,A,00AS
+E09000017,Hillingdon,2012,43,0.153 %/person,NaN,115.7,281200,"2,430",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,A,00AS
+E09000017,Hillingdon,2013,43,0.150 %/person,NaN,115.7,286000,"2,472",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,A,00AS
+E09000017,Hillingdon,2014,44,0.151 %/person,NaN,115.7,291400,"2,519",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,A,00AS
+E09000017,Hillingdon,2015,44,0.149 %/person,NaN,115.7,296100,"2,559",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,A,00AS
+E09000017,Hillingdon,2016,43,0.143 %/person,NaN,115.7,299900,"2,592",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,A,00AS
+E09000017,Hillingdon,2017,40,0.132 %/person,NaN,115.7,302300,"2,613",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,B,00AS
+E09000017,Hillingdon,2018,37,0.121 %/person,NaN,115.7,304800,"2,634",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,B,00AS
+E09000017,Hillingdon,2019,37,0.121 %/person,NaN,115.7,306900,"2,653",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,B,00AS
+E09000017,Hillingdon,2020,37,0.120 %/person,NaN,115.7,308800,"2,669",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,B,00AS
+E09000017,Hillingdon,2021,38,0.123 %/person,NaN,115.7,310200,"2,681",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,B,00AS
+E09000017,Hillingdon,2022,37,0.119 %/person,NaN,115.7,311700,"2,694",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB2,B,00AS
+E09000018,Hounslow,2003,20,0.075 %/person,NaN,56.0,266200,"4,754",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,E,00AT
+E09000018,Hounslow,2004,17,0.064 %/person,NaN,56.0,265700,"4,745",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,E,00AT
+E09000018,Hounslow,2005,19,0.072 %/person,NaN,56.0,264900,"4,730",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,E,00AT
+E09000018,Hounslow,2006,20,0.076 %/person,NaN,56.0,264100,"4,716",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,E,00AT
+E09000018,Hounslow,2007,22,0.084 %/person,0.175 kg,56.0,263100,"4,698",3.6%,82.1%,19.6%,2,11,46,Outer London,West,UB1,E,00AT
+E09000018,Hounslow,2008,24,0.092 %/person,NaN,56.0,262000,"4,679",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,D,00AT
+E09000018,Hounslow,2009,33,0.127 %/person,NaN,56.0,260500,"4,652",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,C,00AT
+E09000018,Hounslow,2010,35,0.140 %/person,NaN,56.0,249200,"4,450",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,C,00AT
+E09000018,Hounslow,2011,35,0.137 %/person,NaN,56.0,254900,"4,552",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,C,00AT
+E09000018,Hounslow,2012,35,0.135 %/person,NaN,56.0,258500,"4,616",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,C,00AT
+E09000018,Hounslow,2013,35,0.134 %/person,NaN,56.0,261300,"4,666",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,C,00AT
+E09000018,Hounslow,2014,35,0.133 %/person,NaN,56.0,264000,"4,714",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,C,00AT
+E09000018,Hounslow,2015,34,0.128 %/person,NaN,56.0,266400,"4,757",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,C,00AT
+E09000018,Hounslow,2016,30,0.112 %/person,NaN,56.0,268300,"4,791",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,C,00AT
+E09000018,Hounslow,2017,30,0.111 %/person,NaN,56.0,269100,"4,805",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,C,00AT
+E09000018,Hounslow,2018,31,0.114 %/person,NaN,56.0,270800,"4,836",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,C,00AT
+E09000018,Hounslow,2019,32,0.118 %/person,NaN,56.0,271500,"4,848",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,C,00AT
+E09000018,Hounslow,2020,35,0.128 %/person,NaN,56.0,273000,"4,875",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,C,00AT
+E09000018,Hounslow,2021,36,0.131 %/person,NaN,56.0,273800,"4,889",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,B,00AT
+E09000018,Hounslow,2022,36,0.131 %/person,NaN,56.0,274700,"4,905",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,West,UB1,B,00AT
+E09000019,Islington,2003,7,0.037 %/person,NaN,14.9,188200,"12,631",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,E,00AU
+E09000019,Islington,2004,11,0.059 %/person,NaN,14.9,187500,"12,584",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,E,00AU
+E09000019,Islington,2005,18,0.096 %/person,NaN,14.9,186800,"12,537",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,E,00AU
+E09000019,Islington,2006,24,0.129 %/person,NaN,14.9,186100,"12,490",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,D,00AU
+E09000019,Islington,2007,26,0.140 %/person,0.243 kg,14.9,185400,"12,443",13.4%,302.0%,67.1%,2,10,45,Core London,Central,SW1,D,00AU
+E09000019,Islington,2008,28,0.152 %/person,NaN,14.9,184500,"12,383",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,D,00AU
+E09000019,Islington,2009,29,0.158 %/person,NaN,14.9,183600,"12,322",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,D,00AU
+E09000019,Islington,2010,30,0.150 %/person,NaN,14.9,200100,"13,430",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,C,00AU
+E09000019,Islington,2011,32,0.155 %/person,NaN,14.9,206300,"13,846",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,C,00AU
+E09000019,Islington,2012,31,0.147 %/person,NaN,14.9,211300,"14,181",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,C,00AU
+E09000019,Islington,2013,33,0.153 %/person,NaN,14.9,215900,"14,490",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,C,00AU
+E09000019,Islington,2014,33,0.149 %/person,NaN,14.9,221400,"14,859",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,C,00AU
+E09000019,Islington,2015,29,0.127 %/person,NaN,14.9,227500,"15,268",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,D,00AU
+E09000019,Islington,2016,32,0.138 %/person,NaN,14.9,232100,"15,577",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,C,00AU
+E09000019,Islington,2017,29,0.123 %/person,NaN,14.9,235000,"15,772",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,D,00AU
+E09000019,Islington,2018,29,0.121 %/person,NaN,14.9,239100,"16,047",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,D,00AU
+E09000019,Islington,2019,30,0.124 %/person,NaN,14.9,242500,"16,275",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,C,00AU
+E09000019,Islington,2020,31,0.127 %/person,NaN,14.9,245000,"16,443",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,C,00AU
+E09000019,Islington,2021,30,0.122 %/person,NaN,14.9,246500,"16,544",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,C,00AU
+E09000019,Islington,2022,28,0.113 %/person,NaN,14.9,248100,"16,651",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,SW1,D,00AU
+E09000020,Kensington and Chelsea,2003,15,0.096 %/person,NaN,12.1,156900,"12,967",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,E,00AW
+E09000020,Kensington and Chelsea,2004,18,0.115 %/person,NaN,12.1,156100,"12,901",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,E,00AW
+E09000020,Kensington and Chelsea,2005,20,0.129 %/person,NaN,12.1,155400,"12,843",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,E,00AW
+E09000020,Kensington and Chelsea,2006,24,0.155 %/person,NaN,12.1,154700,"12,785",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,D,00AW
+E09000020,Kensington and Chelsea,2007,28,0.182 %/person,0.279 kg,12.1,154100,"12,736",24.8%,355.4%,198.3%,3,24,43,Core London,Central,W1,D,00AW
+E09000020,Kensington and Chelsea,2008,30,0.196 %/person,NaN,12.1,153400,"12,678",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,C,00AW
+E09000020,Kensington and Chelsea,2009,31,0.203 %/person,NaN,12.1,152800,"12,628",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,C,00AW
+E09000020,Kensington and Chelsea,2010,32,0.199 %/person,NaN,12.1,160500,"13,264",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,C,00AW
+E09000020,Kensington and Chelsea,2011,34,0.215 %/person,NaN,12.1,158300,"13,083",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,C,00AW
+E09000020,Kensington and Chelsea,2012,26,0.166 %/person,NaN,12.1,156900,"12,967",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,D,00AW
+E09000020,Kensington and Chelsea,2013,25,0.159 %/person,NaN,12.1,157100,"12,983",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,D,00AW
+E09000020,Kensington and Chelsea,2014,25,0.158 %/person,NaN,12.1,157800,"13,041",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,D,00AW
+E09000020,Kensington and Chelsea,2015,26,0.164 %/person,NaN,12.1,158600,"13,107",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,D,00AW
+E09000020,Kensington and Chelsea,2016,26,0.166 %/person,NaN,12.1,156800,"12,959",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,D,00AW
+E09000020,Kensington and Chelsea,2017,26,0.167 %/person,NaN,12.1,155700,"12,868",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,D,00AW
+E09000020,Kensington and Chelsea,2018,27,0.173 %/person,NaN,12.1,156200,"12,909",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,D,00AW
+E09000020,Kensington and Chelsea,2019,29,0.186 %/person,NaN,12.1,156100,"12,901",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,D,00AW
+E09000020,Kensington and Chelsea,2020,24,0.153 %/person,NaN,12.1,156400,"12,926",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,D,00AW
+E09000020,Kensington and Chelsea,2021,23,0.147 %/person,NaN,12.1,156500,"12,934",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,E,00AW
+E09000020,Kensington and Chelsea,2022,23,0.147 %/person,NaN,12.1,156700,"12,950",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,W1,E,00AW
+E09000021,Kingston upon Thames,2003,19,0.116 %/person,NaN,37.2,163800,"4,403",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,E,00AX
+E09000021,Kingston upon Thames,2004,18,0.110 %/person,NaN,37.2,163700,"4,401",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,E,00AX
+E09000021,Kingston upon Thames,2005,24,0.147 %/person,NaN,37.2,163400,"4,392",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,D,00AX
+E09000021,Kingston upon Thames,2006,24,0.147 %/person,NaN,37.2,163100,"4,384",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,D,00AX
+E09000021,Kingston upon Thames,2007,26,0.160 %/person,0.976 kg,37.2,162900,"4,379",10.8%,427.4%,61.8%,4,23,159,Outer London,South West,SW15,D,00AX
+E09000021,Kingston upon Thames,2008,35,0.216 %/person,NaN,37.2,162400,"4,366",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,C,00AX
+E09000021,Kingston upon Thames,2009,46,0.284 %/person,NaN,37.2,162000,"4,355",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,A,00AX
+E09000021,Kingston upon Thames,2010,47,0.296 %/person,NaN,37.2,158600,"4,263",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,A,00AX
+E09000021,Kingston upon Thames,2011,47,0.293 %/person,NaN,37.2,160400,"4,312",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,A,00AX
+E09000021,Kingston upon Thames,2012,46,0.282 %/person,NaN,37.2,163200,"4,387",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,A,00AX
+E09000021,Kingston upon Thames,2013,46,0.278 %/person,NaN,37.2,165700,"4,454",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,A,00AX
+E09000021,Kingston upon Thames,2014,46,0.273 %/person,NaN,37.2,168400,"4,527",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,A,00AX
+E09000021,Kingston upon Thames,2015,46,0.268 %/person,NaN,37.2,171600,"4,613",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,A,00AX
+E09000021,Kingston upon Thames,2016,47,0.271 %/person,NaN,37.2,173700,"4,669",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,A,00AX
+E09000021,Kingston upon Thames,2017,48,0.275 %/person,NaN,37.2,174600,"4,694",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,A,00AX
+E09000021,Kingston upon Thames,2018,49,0.279 %/person,NaN,37.2,175500,"4,718",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,A,00AX
+E09000021,Kingston upon Thames,2019,49,0.276 %/person,NaN,37.2,177500,"4,772",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,A,00AX
+E09000021,Kingston upon Thames,2020,48,0.269 %/person,NaN,37.2,178700,"4,804",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,A,00AX
+E09000021,Kingston upon Thames,2021,48,0.267 %/person,NaN,37.2,179600,"4,828",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,A,00AX
+E09000021,Kingston upon Thames,2022,47,0.260 %/person,NaN,37.2,180500,"4,852",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW15,A,00AX
+E09000022,Lambeth,2003,12,0.038 %/person,NaN,26.8,315000,"11,754",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,E,00AY
+E09000022,Lambeth,2004,16,0.051 %/person,NaN,26.8,313500,"11,698",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,E,00AY
+E09000022,Lambeth,2005,22,0.071 %/person,NaN,26.8,311900,"11,638",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,E,00AY
+E09000022,Lambeth,2006,23,0.074 %/person,NaN,26.8,310500,"11,586",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,E,00AY
+E09000022,Lambeth,2007,25,0.081 %/person,0.654 kg,26.8,308900,"11,526",29.9%,753.7%,93.3%,8,25,202,Core London,South West,SW2,D,00AY
+E09000022,Lambeth,2008,26,0.085 %/person,NaN,26.8,307400,"11,470",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,D,00AY
+E09000022,Lambeth,2009,27,0.088 %/person,NaN,26.8,305700,"11,407",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,D,00AY
+E09000022,Lambeth,2010,28,0.094 %/person,NaN,26.8,297700,"11,108",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,D,00AY
+E09000022,Lambeth,2011,28,0.092 %/person,NaN,26.8,304500,"11,362",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,D,00AY
+E09000022,Lambeth,2012,23,0.074 %/person,NaN,26.8,309400,"11,545",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,E,00AY
+E09000022,Lambeth,2013,21,0.067 %/person,NaN,26.8,312700,"11,668",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,E,00AY
+E09000022,Lambeth,2014,28,0.088 %/person,NaN,26.8,316600,"11,813",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,D,00AY
+E09000022,Lambeth,2015,29,0.090 %/person,NaN,26.8,320700,"11,966",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,D,00AY
+E09000022,Lambeth,2016,29,0.090 %/person,NaN,26.8,323100,"12,056",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,D,00AY
+E09000022,Lambeth,2017,30,0.093 %/person,NaN,26.8,324000,"12,090",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,C,00AY
+E09000022,Lambeth,2018,30,0.092 %/person,NaN,26.8,325900,"12,160",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,C,00AY
+E09000022,Lambeth,2019,32,0.098 %/person,NaN,26.8,326000,"12,164",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,C,00AY
+E09000022,Lambeth,2020,36,0.110 %/person,NaN,26.8,327500,"12,220",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,B,00AY
+E09000022,Lambeth,2021,35,0.106 %/person,NaN,26.8,328900,"12,272",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,C,00AY
+E09000022,Lambeth,2022,31,0.094 %/person,NaN,26.8,330300,"12,325",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW2,C,00AY
+E09000023,Lewisham,2003,8,0.026 %/person,NaN,35.1,312600,"8,906",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2004,10,0.032 %/person,NaN,35.1,312000,"8,889",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2005,12,0.039 %/person,NaN,35.1,311200,"8,866",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2006,16,0.052 %/person,NaN,35.1,310300,"8,840",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2007,22,0.071 %/person,1.249 kg,35.1,309000,"8,803",22.8%,1099.7%,25.6%,8,9,386,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2008,21,0.068 %/person,NaN,35.1,307600,"8,764",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2009,17,0.056 %/person,NaN,35.1,305800,"8,712",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2010,18,0.066 %/person,NaN,35.1,272500,"7,764",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2011,17,0.061 %/person,NaN,35.1,276900,"7,889",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2012,20,0.071 %/person,NaN,35.1,280700,"7,997",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2013,18,0.063 %/person,NaN,35.1,285000,"8,120",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2014,17,0.059 %/person,NaN,35.1,290300,"8,271",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2015,18,0.061 %/person,NaN,35.1,295000,"8,405",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2016,18,0.060 %/person,NaN,35.1,298900,"8,516",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2017,22,0.073 %/person,NaN,35.1,301300,"8,584",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E09000023,Lewisham,2018,28,0.092 %/person,NaN,35.1,303500,"8,647",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,D,00AZ
+E09000023,Lewisham,2019,27,0.088 %/person,NaN,35.1,305800,"8,712",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,D,00AZ
+E09000023,Lewisham,2020,28,0.091 %/person,NaN,35.1,308200,"8,781",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,D,00AZ
+E09000023,Lewisham,2021,27,0.087 %/person,NaN,35.1,310300,"8,840",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,D,00AZ
+E09000023,Lewisham,2022,23,0.074 %/person,NaN,35.1,312600,"8,906",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE13,E,00AZ
+E12000007,London,2003,13,0.002 %/person,NaN,1579.0,7394800,"4,683",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,E,H
+E12000007,London,2004,18,0.002 %/person,NaN,1579.0,7432700,"4,707",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,E,H
+E12000007,London,2005,21,0.003 %/person,NaN,1579.0,7519000,"4,762",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,E,H
+E12000007,London,2006,23,0.003 %/person,NaN,1579.0,7597800,"4,812",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,E,H
+E12000007,London,2007,25,0.003 %/person,0.491 kg,1579.0,7693500,"4,872",6.8%,239.2%,38.9%,108,614,3777,London Overall,London,N/A,D,H
+E12000007,London,2008,29,0.004 %/person,NaN,1579.0,7812200,"4,948",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,D,H
+E12000007,London,2009,32,0.004 %/person,NaN,1579.0,7942600,"5,030",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,C,H
+E12000007,London,2010,32,0.004 %/person,NaN,1579.0,8061500,"5,105",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,C,H
+E12000007,London,2011,34,0.004 %/person,NaN,1579.0,8204400,"5,196",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,C,H
+E12000007,London,2012,34,0.004 %/person,NaN,1579.0,8308800,"5,262",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,C,H
+E12000007,London,2013,34,0.004 %/person,NaN,1579.0,8417500,"5,331",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,C,H
+E12000007,London,2014,33,0.004 %/person,NaN,1579.0,8539400,"5,408",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,C,H
+E12000007,London,2015,33,0.004 %/person,NaN,1579.0,8666900,"5,489",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,C,H
+E12000007,London,2016,33,0.004 %/person,NaN,1579.0,8769700,"5,554",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,C,H
+E12000007,London,2017,33,0.004 %/person,NaN,1579.0,8825000,"5,589",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,C,H
+E12000007,London,2018,33,0.004 %/person,NaN,1579.0,8908100,"5,642",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,C,H
+E12000007,London,2019,34,0.004 %/person,NaN,1579.0,8962000,"5,676",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,C,H
+E12000007,London,2020,33,0.004 %/person,NaN,1579.0,9026300,"5,716",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,C,H
+E12000007,London,2021,33,0.004 %/person,NaN,1579.0,9073600,"5,746",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,C,H
+E12000007,London,2022,33,0.004 %/person,NaN,1579.0,9122900,"5,778",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,London Overall,London,N/A,C,H
+E09000024,Merton,2003,15,0.069 %/person,NaN,37.6,217600,"5,787",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,E,00BA
+E09000024,Merton,2004,20,0.092 %/person,NaN,37.6,217100,"5,774",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,E,00BA
+E09000024,Merton,2005,23,0.106 %/person,NaN,37.6,216600,"5,761",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,E,00BA
+E09000024,Merton,2006,25,0.116 %/person,NaN,37.6,215900,"5,742",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,D,00BA
+E09000024,Merton,2007,27,0.125 %/person,0.688 kg,37.6,215200,"5,723",13.3%,393.6%,37.2%,5,14,148,Outer London,South West,SW19,D,00BA
+E09000024,Merton,2008,30,0.140 %/person,NaN,37.6,214200,"5,697",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,C,00BA
+E09000024,Merton,2009,34,0.160 %/person,NaN,37.6,213100,"5,668",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,C,00BA
+E09000024,Merton,2010,36,0.181 %/person,NaN,37.6,199100,"5,295",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,B,00BA
+E09000024,Merton,2011,37,0.185 %/person,NaN,37.6,200500,"5,332",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,B,00BA
+E09000024,Merton,2012,39,0.193 %/person,NaN,37.6,202000,"5,372",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,B,00BA
+E09000024,Merton,2013,39,0.192 %/person,NaN,37.6,203600,"5,415",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,B,00BA
+E09000024,Merton,2014,38,0.186 %/person,NaN,37.6,204600,"5,441",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,B,00BA
+E09000024,Merton,2015,35,0.170 %/person,NaN,37.6,206000,"5,479",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,C,00BA
+E09000024,Merton,2016,36,0.174 %/person,NaN,37.6,206700,"5,497",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,B,00BA
+E09000024,Merton,2017,37,0.180 %/person,NaN,37.6,206100,"5,481",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,B,00BA
+E09000024,Merton,2018,39,0.189 %/person,NaN,37.6,206200,"5,484",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,B,00BA
+E09000024,Merton,2019,42,0.203 %/person,NaN,37.6,206500,"5,492",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,B,00BA
+E09000024,Merton,2020,41,0.198 %/person,NaN,37.6,207400,"5,516",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,B,00BA
+E09000024,Merton,2021,42,0.202 %/person,NaN,37.6,208000,"5,532",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,B,00BA
+E09000024,Merton,2022,43,0.206 %/person,NaN,37.6,208800,"5,553",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW19,A,00BA
+E09000025,Newham,2003,2,0.005 %/person,NaN,36.2,383800,"10,602",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2004,6,0.016 %/person,NaN,36.2,382600,"10,569",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2005,10,0.026 %/person,NaN,36.2,381400,"10,536",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2006,14,0.037 %/person,NaN,36.2,380200,"10,503",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2007,14,0.037 %/person,0.164 kg,36.2,378800,"10,464",11.0%,171.3%,13.8%,4,5,62,Outer London,East,E16,E,00BB
+E09000025,Newham,2008,15,0.040 %/person,NaN,36.2,377100,"10,417",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2009,19,0.051 %/person,NaN,36.2,375100,"10,362",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2010,15,0.050 %/person,NaN,36.2,299200,"8,265",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2011,23,0.074 %/person,NaN,36.2,310500,"8,577",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2012,21,0.066 %/person,NaN,36.2,316300,"8,738",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2013,18,0.056 %/person,NaN,36.2,321500,"8,881",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2014,17,0.052 %/person,NaN,36.2,328100,"9,064",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2015,15,0.045 %/person,NaN,36.2,336300,"9,290",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2016,14,0.041 %/person,NaN,36.2,344500,"9,517",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2017,14,0.040 %/person,NaN,36.2,348000,"9,613",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2018,17,0.048 %/person,NaN,36.2,352000,"9,724",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2019,20,0.057 %/person,NaN,36.2,353100,"9,754",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2020,21,0.059 %/person,NaN,36.2,357100,"9,865",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,E,00BB
+E09000025,Newham,2021,25,0.070 %/person,NaN,36.2,359200,"9,923",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,D,00BB
+E09000025,Newham,2022,26,0.072 %/person,NaN,36.2,361400,"9,983",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,East,E16,D,00BB
+E12000001,North East,2003,12,0.005 %/person,NaN,8592.0,2500000,291,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,E,
+E12000001,North East,2004,15,0.006 %/person,NaN,8592.0,2507499,292,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,E,
+E12000001,North East,2005,21,0.008 %/person,NaN,8592.0,2515022,293,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,E,
+E12000001,North East,2006,26,0.010 %/person,NaN,8592.0,2522567,294,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,D,
+E12000001,North East,2007,28,0.011 %/person,NaN,8592.0,2530135,294,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,D,
+E12000001,North East,2008,31,0.012 %/person,NaN,8592.0,2537725,295,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000001,North East,2009,35,0.014 %/person,NaN,8592.0,2545338,296,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000001,North East,2010,36,0.014 %/person,NaN,8592.0,2552974,297,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000001,North East,2011,38,0.015 %/person,NaN,8592.0,2560633,298,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000001,North East,2012,37,0.014 %/person,NaN,8592.0,2568315,299,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000001,North East,2013,38,0.015 %/person,NaN,8592.0,2576020,300,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000001,North East,2014,38,0.015 %/person,NaN,8592.0,2583748,301,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000001,North East,2015,38,0.015 %/person,NaN,8592.0,2591499,302,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000001,North East,2016,36,0.014 %/person,NaN,8592.0,2599274,303,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000001,North East,2017,35,0.013 %/person,NaN,8592.0,2607072,303,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000001,North East,2018,35,0.013 %/person,NaN,8592.0,2614893,304,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000001,North East,2019,36,0.014 %/person,NaN,8592.0,2622738,305,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000001,North East,2020,34,0.013 %/person,NaN,8592.0,2630606,306,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000001,North East,2021,34,0.013 %/person,NaN,8592.0,2638498,307,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000001,North East,2022,31,0.012 %/person,NaN,8592.0,2646413,308,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000002,North West,2003,14,0.002 %/person,NaN,14165.0,7000000,494,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,E,
+E12000002,North West,2004,19,0.003 %/person,NaN,14165.0,7028000,496,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,E,
+E12000002,North West,2005,24,0.003 %/person,NaN,14165.0,7056112,498,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,D,
+E12000002,North West,2006,29,0.004 %/person,NaN,14165.0,7084336,500,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,D,
+E12000002,North West,2007,33,0.005 %/person,NaN,14165.0,7112673,502,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000002,North West,2008,37,0.005 %/person,NaN,14165.0,7141124,504,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000002,North West,2009,38,0.005 %/person,NaN,14165.0,7169688,506,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000002,North West,2010,40,0.006 %/person,NaN,14165.0,7198367,508,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000002,North West,2011,43,0.006 %/person,NaN,14165.0,7227161,510,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000002,North West,2012,44,0.006 %/person,NaN,14165.0,7256069,512,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000002,North West,2013,46,0.006 %/person,NaN,14165.0,7285094,514,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000002,North West,2014,47,0.006 %/person,NaN,14165.0,7314234,516,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000002,North West,2015,47,0.006 %/person,NaN,14165.0,7343491,518,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000002,North West,2016,46,0.006 %/person,NaN,14165.0,7372865,520,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000002,North West,2017,45,0.006 %/person,NaN,14165.0,7402356,523,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000002,North West,2018,45,0.006 %/person,NaN,14165.0,7431966,525,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000002,North West,2019,46,0.006 %/person,NaN,14165.0,7461694,527,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000002,North West,2020,45,0.006 %/person,NaN,14165.0,7491540,529,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000002,North West,2021,46,0.006 %/person,NaN,14165.0,7521507,531,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000002,North West,2022,45,0.006 %/person,NaN,14165.0,7551593,533,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E09000026,Redbridge,2003,9,0.029 %/person,NaN,56.4,313300,"5,555",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,E,00BC
+E09000026,Redbridge,2004,16,0.051 %/person,NaN,56.4,313300,"5,555",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,E,00BC
+E09000026,Redbridge,2005,17,0.054 %/person,NaN,56.4,313100,"5,551",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,E,00BC
+E09000026,Redbridge,2006,19,0.061 %/person,NaN,56.4,312900,"5,548",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,E,00BC
+E09000026,Redbridge,2007,22,0.070 %/person,0.217 kg,56.4,312700,"5,544",7.1%,120.6%,24.8%,4,14,68,Outer London,North East,E3,E,00BC
+E09000026,Redbridge,2008,26,0.083 %/person,NaN,56.4,312200,"5,535",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,D,00BC
+E09000026,Redbridge,2009,32,0.103 %/person,NaN,56.4,311700,"5,527",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,C,00BC
+E09000026,Redbridge,2010,28,0.102 %/person,NaN,56.4,275100,"4,878",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,D,00BC
+E09000026,Redbridge,2011,33,0.117 %/person,NaN,56.4,281400,"4,989",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,C,00BC
+E09000026,Redbridge,2012,29,0.102 %/person,NaN,56.4,284600,"5,046",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,D,00BC
+E09000026,Redbridge,2013,29,0.100 %/person,NaN,56.4,288900,"5,122",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,D,00BC
+E09000026,Redbridge,2014,29,0.099 %/person,NaN,56.4,293900,"5,211",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,D,00BC
+E09000026,Redbridge,2015,28,0.094 %/person,NaN,56.4,297900,"5,282",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,D,00BC
+E09000026,Redbridge,2016,27,0.090 %/person,NaN,56.4,301300,"5,342",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,D,00BC
+E09000026,Redbridge,2017,24,0.080 %/person,NaN,56.4,301800,"5,351",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,D,00BC
+E09000026,Redbridge,2018,25,0.082 %/person,NaN,56.4,303900,"5,388",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,D,00BC
+E09000026,Redbridge,2019,25,0.082 %/person,NaN,56.4,305200,"5,411",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,D,00BC
+E09000026,Redbridge,2020,25,0.081 %/person,NaN,56.4,307400,"5,450",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,D,00BC
+E09000026,Redbridge,2021,31,0.100 %/person,NaN,56.4,308800,"5,475",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,C,00BC
+E09000026,Redbridge,2022,31,0.100 %/person,NaN,56.4,310400,"5,504",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E3,C,00BC
+E09000027,Richmond upon Thames,2003,24,0.117 %/person,NaN,57.4,204900,"3,570",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,D,00BD
+E09000027,Richmond upon Thames,2004,24,0.117 %/person,NaN,57.4,204300,"3,559",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,D,00BD
+E09000027,Richmond upon Thames,2005,29,0.142 %/person,NaN,57.4,203700,"3,549",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,D,00BD
+E09000027,Richmond upon Thames,2006,32,0.158 %/person,NaN,57.4,203100,"3,538",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,C,00BD
+E09000027,Richmond upon Thames,2007,36,0.178 %/person,0.637 kg,57.4,202500,"3,528",3.5%,224.7%,66.2%,2,38,129,Outer London,South West,SW13,B,00BD
+E09000027,Richmond upon Thames,2008,42,0.208 %/person,NaN,57.4,201900,"3,517",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,B,00BD
+E09000027,Richmond upon Thames,2009,43,0.214 %/person,NaN,57.4,201100,"3,503",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,A,00BD
+E09000027,Richmond upon Thames,2010,43,0.231 %/person,NaN,57.4,186300,"3,246",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,A,00BD
+E09000027,Richmond upon Thames,2011,45,0.240 %/person,NaN,57.4,187500,"3,267",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,A,00BD
+E09000027,Richmond upon Thames,2012,46,0.243 %/person,NaN,57.4,189000,"3,293",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,A,00BD
+E09000027,Richmond upon Thames,2013,43,0.225 %/person,NaN,57.4,191100,"3,329",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,A,00BD
+E09000027,Richmond upon Thames,2014,41,0.212 %/person,NaN,57.4,193300,"3,368",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,B,00BD
+E09000027,Richmond upon Thames,2015,41,0.211 %/person,NaN,57.4,194100,"3,382",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,B,00BD
+E09000027,Richmond upon Thames,2016,42,0.215 %/person,NaN,57.4,195200,"3,401",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,B,00BD
+E09000027,Richmond upon Thames,2017,42,0.215 %/person,NaN,57.4,195700,"3,409",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,B,00BD
+E09000027,Richmond upon Thames,2018,43,0.218 %/person,NaN,57.4,196900,"3,430",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,A,00BD
+E09000027,Richmond upon Thames,2019,44,0.222 %/person,NaN,57.4,198000,"3,449",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,A,00BD
+E09000027,Richmond upon Thames,2020,40,0.201 %/person,NaN,57.4,198900,"3,465",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,B,00BD
+E09000027,Richmond upon Thames,2021,41,0.205 %/person,NaN,57.4,199700,"3,479",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,B,00BD
+E09000027,Richmond upon Thames,2022,40,0.200 %/person,NaN,57.4,200400,"3,491",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SW13,B,00BD
+E12000008,South East,2003,23,0.003 %/person,NaN,19096.0,8500000,445,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,E,
+E12000008,South East,2004,26,0.003 %/person,NaN,19096.0,8559500,448,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,D,
+E12000008,South East,2005,29,0.003 %/person,NaN,19096.0,8619416,451,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,D,
+E12000008,South East,2006,33,0.004 %/person,NaN,19096.0,8679752,455,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000008,South East,2007,36,0.004 %/person,NaN,19096.0,8740510,458,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000008,South East,2008,38,0.004 %/person,NaN,19096.0,8801694,461,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000008,South East,2009,40,0.005 %/person,NaN,19096.0,8863306,464,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000008,South East,2010,41,0.005 %/person,NaN,19096.0,8925349,467,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000008,South East,2011,43,0.005 %/person,NaN,19096.0,8987826,471,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000008,South East,2012,43,0.005 %/person,NaN,19096.0,9050741,474,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000008,South East,2013,44,0.005 %/person,NaN,19096.0,9114096,477,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000008,South East,2014,45,0.005 %/person,NaN,19096.0,9177895,481,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000008,South East,2015,45,0.005 %/person,NaN,19096.0,9242140,484,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000008,South East,2016,46,0.005 %/person,NaN,19096.0,9306835,487,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000008,South East,2017,47,0.005 %/person,NaN,19096.0,9371983,491,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000008,South East,2018,47,0.005 %/person,NaN,19096.0,9437587,494,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000008,South East,2019,48,0.005 %/person,NaN,19096.0,9503650,498,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000008,South East,2020,46,0.005 %/person,NaN,19096.0,9570176,501,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000008,South East,2021,46,0.005 %/person,NaN,19096.0,9637167,505,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000008,South East,2022,45,0.005 %/person,NaN,19096.0,9704627,508,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000009,South West,2003,21,0.004 %/person,NaN,23829.0,5200000,218,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,E,
+E12000009,South West,2004,27,0.005 %/person,NaN,23829.0,5225999,219,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,D,
+E12000009,South West,2005,31,0.006 %/person,NaN,23829.0,5252129,220,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000009,South West,2006,37,0.007 %/person,NaN,23829.0,5278390,222,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000009,South West,2007,40,0.008 %/person,NaN,23829.0,5304782,223,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000009,South West,2008,42,0.008 %/person,NaN,23829.0,5331306,224,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000009,South West,2009,43,0.008 %/person,NaN,23829.0,5357963,225,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000009,South West,2010,47,0.009 %/person,NaN,23829.0,5384752,226,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000009,South West,2011,47,0.009 %/person,NaN,23829.0,5411676,227,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000009,South West,2012,47,0.009 %/person,NaN,23829.0,5438735,228,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000009,South West,2013,47,0.009 %/person,NaN,23829.0,5465928,229,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000009,South West,2014,48,0.009 %/person,NaN,23829.0,5493258,231,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000009,South West,2015,48,0.009 %/person,NaN,23829.0,5520724,232,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000009,South West,2016,48,0.009 %/person,NaN,23829.0,5548328,233,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000009,South West,2017,49,0.009 %/person,NaN,23829.0,5576069,234,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000009,South West,2018,50,0.009 %/person,NaN,23829.0,5603950,235,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000009,South West,2019,50,0.009 %/person,NaN,23829.0,5631969,236,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000009,South West,2020,49,0.009 %/person,NaN,23829.0,5660129,238,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000009,South West,2021,49,0.009 %/person,NaN,23829.0,5688430,239,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000009,South West,2022,48,0.008 %/person,NaN,23829.0,5716872,240,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E09000028,Southwark,2003,7,0.023 %/person,NaN,28.9,308500,"10,675",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,E,00BE
+E09000028,Southwark,2004,11,0.036 %/person,NaN,28.9,307400,"10,637",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,E,00BE
+E09000028,Southwark,2005,15,0.049 %/person,NaN,28.9,306200,"10,595",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,E,00BE
+E09000028,Southwark,2006,18,0.059 %/person,NaN,28.9,304900,"10,550",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,E,00BE
+E09000028,Southwark,2007,20,0.066 %/person,0.643 kg,28.9,303500,"10,502",20.8%,674.7%,48.4%,6,14,195,Core London,South East,SE1,E,00BE
+E09000028,Southwark,2008,21,0.070 %/person,NaN,28.9,301800,"10,443",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,E,00BE
+E09000028,Southwark,2009,22,0.073 %/person,NaN,28.9,300000,"10,381",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,E,00BE
+E09000028,Southwark,2010,25,0.088 %/person,NaN,28.9,283800,"9,820",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,D,00BE
+E09000028,Southwark,2011,27,0.094 %/person,NaN,28.9,288700,"9,990",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,D,00BE
+E09000028,Southwark,2012,30,0.102 %/person,NaN,28.9,293400,"10,152",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,C,00BE
+E09000028,Southwark,2013,34,0.114 %/person,NaN,28.9,298700,"10,336",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,C,00BE
+E09000028,Southwark,2014,35,0.116 %/person,NaN,28.9,302800,"10,478",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,C,00BE
+E09000028,Southwark,2015,35,0.113 %/person,NaN,28.9,308400,"10,671",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,C,00BE
+E09000028,Southwark,2016,34,0.109 %/person,NaN,28.9,311700,"10,785",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,C,00BE
+E09000028,Southwark,2017,35,0.111 %/person,NaN,28.9,314200,"10,872",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,C,00BE
+E09000028,Southwark,2018,35,0.110 %/person,NaN,28.9,317300,"10,979",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,C,00BE
+E09000028,Southwark,2019,35,0.110 %/person,NaN,28.9,318800,"11,031",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,C,00BE
+E09000028,Southwark,2020,33,0.103 %/person,NaN,28.9,321300,"11,118",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,C,00BE
+E09000028,Southwark,2021,36,0.111 %/person,NaN,28.9,323300,"11,187",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,B,00BE
+E09000028,Southwark,2022,32,0.098 %/person,NaN,28.9,325300,"11,256",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South East,SE1,C,00BE
+E09000029,Sutton,2003,25,0.120 %/person,NaN,43.8,207600,"4,740",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,D,00BF
+E09000029,Sutton,2004,28,0.135 %/person,NaN,43.8,207800,"4,744",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,D,00BF
+E09000029,Sutton,2005,29,0.139 %/person,NaN,43.8,208100,"4,751",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,D,00BF
+E09000029,Sutton,2006,30,0.144 %/person,NaN,43.8,208100,"4,751",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,C,00BF
+E09000029,Sutton,2007,32,0.154 %/person,1.345 kg,43.8,208200,"4,753",4.6%,639.3%,50.2%,2,22,280,Outer London,South West,SM1,C,00BF
+E09000029,Sutton,2008,32,0.154 %/person,NaN,43.8,208000,"4,749",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,C,00BF
+E09000029,Sutton,2009,38,0.183 %/person,NaN,43.8,207700,"4,742",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,B,00BF
+E09000029,Sutton,2010,38,0.201 %/person,NaN,43.8,189300,"4,322",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,B,00BF
+E09000029,Sutton,2011,37,0.194 %/person,NaN,43.8,191100,"4,363",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,B,00BF
+E09000029,Sutton,2012,37,0.191 %/person,NaN,43.8,193500,"4,418",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,B,00BF
+E09000029,Sutton,2013,37,0.189 %/person,NaN,43.8,195800,"4,470",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,B,00BF
+E09000029,Sutton,2014,38,0.192 %/person,NaN,43.8,198000,"4,521",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,B,00BF
+E09000029,Sutton,2015,35,0.175 %/person,NaN,43.8,199900,"4,564",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,C,00BF
+E09000029,Sutton,2016,37,0.183 %/person,NaN,43.8,201900,"4,610",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,B,00BF
+E09000029,Sutton,2017,50,0.246 %/person,NaN,43.8,203200,"4,639",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,A,00BF
+E09000029,Sutton,2018,49,0.240 %/person,NaN,43.8,204500,"4,669",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,A,00BF
+E09000029,Sutton,2019,49,0.238 %/person,NaN,43.8,206300,"4,710",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,A,00BF
+E09000029,Sutton,2020,46,0.222 %/person,NaN,43.8,207400,"4,735",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,A,00BF
+E09000029,Sutton,2021,44,0.211 %/person,NaN,43.8,208500,"4,760",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,A,00BF
+E09000029,Sutton,2022,43,0.205 %/person,NaN,43.8,209500,"4,783",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,South West,SM1,A,00BF
+E09000030,Tower Hamlets,2003,5,0.018 %/person,NaN,19.8,277000,"13,990",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,E,00BG
+E09000030,Tower Hamlets,2004,7,0.025 %/person,NaN,19.8,275800,"13,929",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,E,00BG
+E09000030,Tower Hamlets,2005,9,0.033 %/person,NaN,19.8,274400,"13,859",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,E,00BG
+E09000030,Tower Hamlets,2006,12,0.044 %/person,NaN,19.8,273300,"13,803",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,E,00BG
+E09000030,Tower Hamlets,2007,13,0.048 %/person,0.360 kg,19.8,272200,"13,747",20.2%,494.9%,20.2%,4,4,98,Core London,East,E1,E,00BG
+E09000030,Tower Hamlets,2008,19,0.070 %/person,NaN,19.8,270900,"13,682",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,E,00BG
+E09000030,Tower Hamlets,2009,26,0.096 %/person,NaN,19.8,269500,"13,611",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,D,00BG
+E09000030,Tower Hamlets,2010,25,0.101 %/person,NaN,19.8,248500,"12,551",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,D,00BG
+E09000030,Tower Hamlets,2011,27,0.105 %/person,NaN,19.8,256000,"12,929",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,D,00BG
+E09000030,Tower Hamlets,2012,28,0.106 %/person,NaN,19.8,263600,"13,313",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,D,00BG
+E09000030,Tower Hamlets,2013,28,0.102 %/person,NaN,19.8,273600,"13,818",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,D,00BG
+E09000030,Tower Hamlets,2014,28,0.098 %/person,NaN,19.8,284600,"14,374",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,D,00BG
+E09000030,Tower Hamlets,2015,27,0.092 %/person,NaN,19.8,293800,"14,838",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,D,00BG
+E09000030,Tower Hamlets,2016,28,0.093 %/person,NaN,19.8,300900,"15,197",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,D,00BG
+E09000030,Tower Hamlets,2017,26,0.084 %/person,NaN,19.8,308000,"15,556",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,D,00BG
+E09000030,Tower Hamlets,2018,23,0.072 %/person,NaN,19.8,317700,"16,045",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,E,00BG
+E09000030,Tower Hamlets,2019,22,0.068 %/person,NaN,19.8,324700,"16,399",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,E,00BG
+E09000030,Tower Hamlets,2020,19,0.058 %/person,NaN,19.8,330100,"16,672",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,E,00BG
+E09000030,Tower Hamlets,2021,20,0.060 %/person,NaN,19.8,334000,"16,869",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,E,00BG
+E09000030,Tower Hamlets,2022,18,0.053 %/person,NaN,19.8,337900,"17,066",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,East,E1,E,00BG
+E09000031,Waltham Forest,2003,12,0.041 %/person,NaN,38.8,290600,"7,490",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,E,00BH
+E09000031,Waltham Forest,2004,18,0.062 %/person,NaN,38.8,289800,"7,469",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,E,00BH
+E09000031,Waltham Forest,2005,22,0.076 %/person,NaN,38.8,288900,"7,446",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,E,00BH
+E09000031,Waltham Forest,2006,28,0.097 %/person,NaN,38.8,287900,"7,420",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,D,00BH
+E09000031,Waltham Forest,2007,30,0.105 %/person,0.220 kg,38.8,286800,"7,392",12.9%,162.4%,46.4%,5,18,63,Outer London,North East,E1,C,00BH
+E09000031,Waltham Forest,2008,28,0.098 %/person,NaN,38.8,285400,"7,356",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,D,00BH
+E09000031,Waltham Forest,2009,28,0.099 %/person,NaN,38.8,283900,"7,317",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,D,00BH
+E09000031,Waltham Forest,2010,27,0.106 %/person,NaN,38.8,254000,"6,546",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,D,00BH
+E09000031,Waltham Forest,2011,27,0.104 %/person,NaN,38.8,259700,"6,693",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,D,00BH
+E09000031,Waltham Forest,2012,31,0.118 %/person,NaN,38.8,262500,"6,765",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,C,00BH
+E09000031,Waltham Forest,2013,33,0.124 %/person,NaN,38.8,265700,"6,848",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,C,00BH
+E09000031,Waltham Forest,2014,36,0.134 %/person,NaN,38.8,267800,"6,902",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,B,00BH
+E09000031,Waltham Forest,2015,35,0.129 %/person,NaN,38.8,270700,"6,977",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,C,00BH
+E09000031,Waltham Forest,2016,34,0.124 %/person,NaN,38.8,274200,"7,067",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,C,00BH
+E09000031,Waltham Forest,2017,32,0.116 %/person,NaN,38.8,275500,"7,101",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,C,00BH
+E09000031,Waltham Forest,2018,32,0.116 %/person,NaN,38.8,276700,"7,131",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,C,00BH
+E09000031,Waltham Forest,2019,32,0.116 %/person,NaN,38.8,277000,"7,139",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,C,00BH
+E09000031,Waltham Forest,2020,32,0.115 %/person,NaN,38.8,279000,"7,191",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,C,00BH
+E09000031,Waltham Forest,2021,32,0.114 %/person,NaN,38.8,280300,"7,224",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,C,00BH
+E09000031,Waltham Forest,2022,33,0.117 %/person,NaN,38.8,281700,"7,260",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Outer London,North East,E1,C,00BH
+E09000032,Wandsworth,2003,18,0.064 %/person,NaN,34.3,282000,"8,222",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,E,00BJ
+E09000032,Wandsworth,2004,17,0.061 %/person,NaN,34.3,280300,"8,172",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,E,00BJ
+E09000032,Wandsworth,2005,21,0.075 %/person,NaN,34.3,278400,"8,117",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,E,00BJ
+E09000032,Wandsworth,2006,23,0.083 %/person,NaN,34.3,276600,"8,064",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,E,00BJ
+E09000032,Wandsworth,2007,25,0.091 %/person,0.200 kg,34.3,274700,"8,009",14.6%,160.3%,113.7%,5,39,55,Core London,South West,SW18,D,00BJ
+E09000032,Wandsworth,2008,27,0.099 %/person,NaN,34.3,272500,"7,945",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,D,00BJ
+E09000032,Wandsworth,2009,25,0.092 %/person,NaN,34.3,270400,"7,883",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,D,00BJ
+E09000032,Wandsworth,2010,27,0.089 %/person,NaN,34.3,302600,"8,822",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,D,00BJ
+E09000032,Wandsworth,2011,28,0.091 %/person,NaN,34.3,307700,"8,971",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,D,00BJ
+E09000032,Wandsworth,2012,24,0.078 %/person,NaN,34.3,309500,"9,023",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,D,00BJ
+E09000032,Wandsworth,2013,20,0.064 %/person,NaN,34.3,313100,"9,128",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,E,00BJ
+E09000032,Wandsworth,2014,21,0.066 %/person,NaN,34.3,316500,"9,227",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,E,00BJ
+E09000032,Wandsworth,2015,21,0.066 %/person,NaN,34.3,319500,"9,315",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,E,00BJ
+E09000032,Wandsworth,2016,22,0.068 %/person,NaN,34.3,321500,"9,373",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,E,00BJ
+E09000032,Wandsworth,2017,22,0.068 %/person,NaN,34.3,323300,"9,426",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,E,00BJ
+E09000032,Wandsworth,2018,23,0.070 %/person,NaN,34.3,326500,"9,519",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,E,00BJ
+E09000032,Wandsworth,2019,24,0.073 %/person,NaN,34.3,329700,"9,612",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,D,00BJ
+E09000032,Wandsworth,2020,24,0.072 %/person,NaN,34.3,331600,"9,668",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,D,00BJ
+E09000032,Wandsworth,2021,23,0.069 %/person,NaN,34.3,333500,"9,723",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,E,00BJ
+E09000032,Wandsworth,2022,22,0.066 %/person,NaN,34.3,335500,"9,781",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,South West,SW18,E,00BJ
+E12000005,West Midlands,2003,16,0.003 %/person,NaN,902.0,5400000,"5,987",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,E,
+E12000005,West Midlands,2004,20,0.004 %/person,NaN,902.0,5424300,"6,014",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,E,
+E12000005,West Midlands,2005,25,0.005 %/person,NaN,902.0,5448709,"6,041",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,D,
+E12000005,West Midlands,2006,29,0.005 %/person,NaN,902.0,5473228,"6,068",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,D,
+E12000005,West Midlands,2007,33,0.006 %/person,NaN,902.0,5497858,"6,095",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000005,West Midlands,2008,37,0.007 %/person,NaN,902.0,5522598,"6,123",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000005,West Midlands,2009,40,0.007 %/person,NaN,902.0,5547450,"6,150",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000005,West Midlands,2010,42,0.008 %/person,NaN,902.0,5572413,"6,178",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000005,West Midlands,2011,43,0.008 %/person,NaN,902.0,5597489,"6,206",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000005,West Midlands,2012,44,0.008 %/person,NaN,902.0,5622678,"6,234",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000005,West Midlands,2013,42,0.007 %/person,NaN,902.0,5647980,"6,262",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000005,West Midlands,2014,42,0.007 %/person,NaN,902.0,5673396,"6,290",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000005,West Midlands,2015,42,0.007 %/person,NaN,902.0,5698926,"6,318",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000005,West Midlands,2016,41,0.007 %/person,NaN,902.0,5724571,"6,347",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000005,West Midlands,2017,40,0.007 %/person,NaN,902.0,5750332,"6,375",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000005,West Midlands,2018,40,0.007 %/person,NaN,902.0,5776208,"6,404",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000005,West Midlands,2019,40,0.007 %/person,NaN,902.0,5802201,"6,433",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000005,West Midlands,2020,39,0.007 %/person,NaN,902.0,5828311,"6,462",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000005,West Midlands,2021,38,0.006 %/person,NaN,902.0,5854538,"6,491",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000005,West Midlands,2022,38,0.006 %/person,NaN,902.0,5880884,"6,520",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E09000033,Westminster,2003,11,0.061 %/person,NaN,21.5,180500,"8,395",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2004,15,0.084 %/person,NaN,21.5,179500,"8,349",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2005,18,0.101 %/person,NaN,21.5,178500,"8,302",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2006,20,0.113 %/person,NaN,21.5,177400,"8,251",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2007,23,0.130 %/person,0.244 kg,21.5,176400,"8,205",23.3%,200.0%,130.2%,5,28,43,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2008,23,0.131 %/person,NaN,21.5,175400,"8,158",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2009,24,0.138 %/person,NaN,21.5,174500,"8,116",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,D,00BK
+E09000033,Westminster,2010,25,0.115 %/person,NaN,21.5,217200,"10,102",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,D,00BK
+E09000033,Westminster,2011,25,0.114 %/person,NaN,21.5,219600,"10,214",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,D,00BK
+E09000033,Westminster,2012,22,0.098 %/person,NaN,21.5,223700,"10,405",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2013,21,0.093 %/person,NaN,21.5,225300,"10,479",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2014,19,0.083 %/person,NaN,21.5,229900,"10,693",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2015,17,0.071 %/person,NaN,21.5,238000,"11,070",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2016,17,0.070 %/person,NaN,21.5,242000,"11,256",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2017,19,0.078 %/person,NaN,21.5,244800,"11,386",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2018,22,0.086 %/person,NaN,21.5,255300,"11,874",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2019,20,0.077 %/person,NaN,21.5,261300,"12,153",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2020,24,0.091 %/person,NaN,21.5,264800,"12,316",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,D,00BK
+E09000033,Westminster,2021,21,0.079 %/person,NaN,21.5,266400,"12,391",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,E,00BK
+E09000033,Westminster,2022,25,0.093 %/person,NaN,21.5,268100,"12,470",NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Core London,Central,WC1,D,00BK
+E12000003,Yorkshire and the Humber,2003,15,0.003 %/person,NaN,15420.0,5100000,331,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,E,
+E12000003,Yorkshire and the Humber,2004,19,0.004 %/person,NaN,15420.0,5120400,332,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,E,
+E12000003,Yorkshire and the Humber,2005,22,0.004 %/person,NaN,15420.0,5140881,333,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,E,
+E12000003,Yorkshire and the Humber,2006,27,0.005 %/person,NaN,15420.0,5161445,335,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,D,
+E12000003,Yorkshire and the Humber,2007,31,0.006 %/person,NaN,15420.0,5182090,336,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000003,Yorkshire and the Humber,2008,34,0.007 %/person,NaN,15420.0,5202819,337,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,C,
+E12000003,Yorkshire and the Humber,2009,37,0.007 %/person,NaN,15420.0,5223630,339,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000003,Yorkshire and the Humber,2010,40,0.008 %/person,NaN,15420.0,5244525,340,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000003,Yorkshire and the Humber,2011,42,0.008 %/person,NaN,15420.0,5265503,341,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000003,Yorkshire and the Humber,2012,43,0.008 %/person,NaN,15420.0,5286565,343,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000003,Yorkshire and the Humber,2013,44,0.008 %/person,NaN,15420.0,5307711,344,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000003,Yorkshire and the Humber,2014,44,0.008 %/person,NaN,15420.0,5328942,346,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000003,Yorkshire and the Humber,2015,44,0.008 %/person,NaN,15420.0,5350258,347,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000003,Yorkshire and the Humber,2016,43,0.008 %/person,NaN,15420.0,5371659,348,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000003,Yorkshire and the Humber,2017,42,0.008 %/person,NaN,15420.0,5393145,350,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000003,Yorkshire and the Humber,2018,43,0.008 %/person,NaN,15420.0,5414718,351,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000003,Yorkshire and the Humber,2019,44,0.008 %/person,NaN,15420.0,5436377,353,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,A,
+E12000003,Yorkshire and the Humber,2020,42,0.008 %/person,NaN,15420.0,5458122,354,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000003,Yorkshire and the Humber,2021,42,0.008 %/person,NaN,15420.0,5479955,355,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,
+E12000003,Yorkshire and the Humber,2022,42,0.008 %/person,NaN,15420.0,5501875,357,NaN%,NaN%,NaN%,Unknown,Unknown,Unknown,Non-London,Part of England,N/A,B,

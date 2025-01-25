@@ -1,0 +1,85 @@
+/* 只保留日期选择器相关的样式 */
+.DateInput {
+    width: 100px;
+}
+
+.DateInput_input {
+    text-align: center;
+    font-size: 0.9rem;
+    padding: 4px 8px;
+}
+
+.SingleDatePickerInput {
+    border-radius: 4px;
+    border: 1px solid #dee2e6;
+}
+
+.SingleDatePicker_picker {
+    z-index: 1000 !important;
+}
+
+/* 隐藏所有不需要的元素 */
+.DayPicker_weekHeader,
+.CalendarMonth_table,
+.DayPicker_transitionContainer {
+    display: none !important;
+}
+
+/* 显示年份选择器 */
+.DayPicker_focusRegion {
+    display: flex;
+    flex-direction: column;
+}
+
+/* 自定义年份显示 */
+.CalendarMonth_caption {
+    font-size: 1.2rem;
+    padding: 15px 0;
+    text-align: center;
+}
+
+/* 调整导航按钮位置 */
+.DayPickerNavigation {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+/* 设置选择器的整体大小 */
+.SingleDatePicker_picker {
+    min-height: auto;
+    width: 200px;
+}
+
+/* 调整导航按钮样式 */
+.DayPickerNavigation_button {
+    border: none;
+    background: none;
+    padding: 5px;
+}
+
+/* 添加按钮激活状态的样式 */
+.btn-primary:not(.btn-outline-primary).active {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    color: white;
+}
+
+/* Average 模式下的时间轴样式 */
+.rc-slider-disabled .rc-slider-track {
+    background-color: #198754;  /* Bootstrap 的绿色 */
+    height: 4px;
+    display: block;
+}
+
+.rc-slider-disabled .rc-slider-rail {
+    height: 4px;
+}
+
+.rc-slider-disabled .rc-slider-handle {
+    display: none;
+}
+
+.rc-slider-disabled .rc-slider-mark-text {
+    color: #198754;  /* 标记文字也变成绿色 */
+}
